@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Annotation Completed</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    text-align: center;
+  }
+  h1 {
+    color: #4CAF50;
+  }
+  button {
+    margin-top: 20px;
+    color: white;
+    background-color: #4CAF50;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  button:hover {
+    background-color: #45a049;
+  }
+</style>
+</head>
+<body>
+  <h1>Thank you for completing all annotation tasks!</h1>
+  <p>Your contributions are greatly appreciated.</p>
+  <button onclick="logout()">Logout</button>
+
+  <script>
+    function logout() {
+      localStorage.removeItem("annotator_id");
+      localStorage.removeItem("session_id");
+      window.location.href = "/static/index.html";
+    }
+  </script>
+  <script src="/static/common.js"></script>
+</body>
+</html>

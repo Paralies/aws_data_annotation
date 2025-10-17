@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Login or Register</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      padding: 40px;
+    }
+
+    h2 {
+      color: #333;
+    }
+
+    form {
+      background-color: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    }
+
+    label {
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    input, select {
+      padding: 8px;
+      margin-top: 5px;
+      margin-bottom: 15px;
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    button {
+      padding: 10px 15px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    #status {
+      font-weight: bold;
+      color: green;
+      margin-top: 10px;
+    }
+
+    #registerBox {
+      margin-top: 20px;
+    }
+    #changePasswordBox {
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Annotator Login</h2>
+
+  <div id="loginBox">
+    <form id="loginForm" method="POST">
+      <label>ID: <input type="text" name="annotator_id" required /></label><br />
+      <label>Password: <input type="password" name="password" required /></label><br />
+      <button type="submit">Login</button>
+    </form>
+    <div style="display: flex; gap: 10px; margin-top: 10px;">
+      <button onclick="showChangePassword()">Change Password</button>
+      <button onclick="showAdmin()">Admin Login</button>
+    </div>
+  </div>
+
+  <div id="changePasswordBox" style="display:none; margin-top: 40px;">
+    <h3>Change Annotator Password</h3>
+    <form id="changePasswordForm">
+      <label>ID: <input type="text" name="annotator_id" required /></label><br />
+      <label>Old Password: <input type="password" name="old_password" required /></label><br />
+      <label>New Password: <input type="password" name="new_password" required /></label><br />
+      <button type="submit">Change Password</button>
+    </form>
+    <button onclick="showLogin()">Back to Login</button>
+  </div>
+
+  <div id="adminBox" style="display:none; margin-top: 40px;">
+    <h2>Admin Login</h2>
+    <form id="adminForm">
+      <label>ID: <input type="text" name="admin_id" required /></label><br />
+      <label>Password: <input type="password" name="admin_password" required /></label><br />
+      <button type="submit">Admin Login</button>
+    </form>
+    <button onclick="showLogin()">Back to Login</button>
+  </div>
+
+  <p id="status"></p>
+
+  <script>
+    function showAdmin() {
+      document.getElementById("loginBox").style.display = "none";
+      document.getElementById("adminBox").style.display = "block";
+      document.getElementById("changePasswordBox").style.display = "none";
+    }
+
+    function showChangePassword() {
+      document.getElementById("loginBox").style.display = "none";
+      document.getElementById("adminBox").style.display = "none";
+      document.getElementById("changePasswordBox").style.display = "block";
+    }
+
+    function showLogin() {
+      document.getElementById("adminBox").style.display = "none";
+      document.getElementById("loginBox").style.display = "block";
+      document.getElementById("changePasswordBox").style.display = "none";
+    }
+
+    async function handleFormSubmit(form, action) {
+      const formData = new FormData(form);
+      const endpoint = action === "login" ? "/login" : "/register";
+
+      const res = await fetch(endpoint, {
+        method: "POST",
+        body: formData
+      });
+
+      const status = document.getElementById("status");
+      if (res.ok) {
+        const data = await res.json();
+        if (action === "register") {
+          status.textContent = `Welcome ${data.annotator_id}! Registration successful. Redirecting to login...`;
+          setTimeout(() => {
+            status.textContent = "";
+          }, 2000);
+        } else {
+          localStorage.setItem("annotator_id", data.annotator_id);
+          const session_id = "session_" + Date.now();
+          localStorage.setItem("session_id", session_id);
+
+          try {
+            // Fetch progress from server API
+            const progressRes = await fetch(`/api/progress/${data.annotator_id}`);
+            if (progressRes.ok) {
+              const progressData = await progressRes.json();
+              if (progressData.allTasksCompleted) {
+                window.location.href = "/static/completed.html";
+                return;
+              }
+            }
+          } catch {}
+
+          window.location.href = "/static/progress.html";
+        }
+      } else {
+        const error = await res.json();
+        if (action === "register" && error.detail === "Annotator ID already exists") {
+          status.textContent = "Error: This ID is already registered.";
+        } else {
+          status.textContent = "Error: " + (error.detail || error.message);
+        }
+      }
+    }
+
+    document.getElementById("loginForm").onsubmit = function (e) {
+      e.preventDefault();
+      handleFormSubmit(e.target, "login");
+    };
+
+    
+
+    document.getElementById("adminForm").onsubmit = function (e) {
+      e.preventDefault();
+      const form = e.target;
+      const id = form.admin_id.value;
+      const pw = form.admin_password.value;
+      if (id === "admin" && pw === "admin2") {
+        window.location.href = "/static/admin.html";
+      } else {
+        document.getElementById("status").textContent = "Invalid admin credentials.";
+      }
+    };
+
+    document.getElementById("changePasswordForm").onsubmit = async function (e) {
+      e.preventDefault();
+      const form = e.target;
+      const formData = new FormData(form);
+
+      const res = await fetch("/change-password", {
+        method: "POST",
+        body: formData
+      });
+
+      const status = document.getElementById("status");
+      if (res.ok) {
+        status.textContent = "Password changed successfully.";
+      } else {
+        const error = await res.json();
+        status.textContent = "Error: " + (error.detail || error.message);
+      }
+    };
+  </script>
+  <script src="/static/common.js"></script>
+</body>
+</html>

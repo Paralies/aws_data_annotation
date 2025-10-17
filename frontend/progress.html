@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Annotation Progress</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      padding: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .container {
+      background-color: #fff;
+      padding: 40px;
+      border-radius: 8px;
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+      max-width: 500px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .logo {
+      max-width: 100px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      color: #007bff;
+    }
+
+    .progress-container {
+      background-color: #e0e0e0;
+      border-radius: 8px;
+      overflow: hidden;
+      height: 20px;
+      margin: 20px 0;
+    }
+
+    .progress-bar {
+      height: 100%;
+      background-color: #28a745;
+      text-align: right;
+      padding-right: 8px;
+      color: white;
+      font-size: 12px;
+      line-height: 20px;
+      border-radius: 8px 0 0 8px;
+      width: 0%;
+      transition: width 0.3s ease-in-out;
+    }
+
+    .start-btn {
+      margin-top: 30px;
+      padding: 12px 24px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 16px;
+      display: none;
+    }
+
+    .start-btn:hover {
+      background-color: #218838;
+    }
+
+    p {
+      font-size: 16px;
+      margin: 10px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="/static/logo.png" alt="Logo" class="logo">
+    <h1>Welcome!</h1>
+    <p id="status-text">Checking your progress...</p>
+    <div class="progress-container">
+      <div class="progress-bar" id="progressBar">0%</div>
+    </div>
+    <a class="start-btn" href="/static/annotate.html" id="startBtn">Start Annotation</a>
+  </div>
+
+  <script>
+    const annotator_id = localStorage.getItem("annotator_id");
+    const session_id = localStorage.getItem("session_id");
+    const progressBar = document.getElementById("progressBar");
+    const statusText = document.getElementById("status-text");
+    const startBtn = document.getElementById("startBtn");
+
+    async function loadProgress() {
+      try {
+        const res = await fetch(`/api/progress/${annotator_id}`);
+        if (!res.ok) {
+          throw new Error("Failed to fetch progress");
+        }
+        const data = await res.json();
+        const { total, completed, allTasksCompleted } = data;
+
+        if (allTasksCompleted) {
+          window.location.href = "/static/completed.html";
+          return;
+        }
+
+        const percent = total > 0 ? Math.round((completed.length / total) * 100) : 0;
+        const remaining = total - completed.length;
+
+        progressBar.style.width = percent + "%";
+        progressBar.textContent = percent + "%";
+
+        if (completed.length === 0) {
+          statusText.textContent = "Welcome! Let's get started with your first annotation.";
+        } else {
+          statusText.textContent = `You completed ${completed.length} out of ${total} tasks.`;
+        }
+
+        startBtn.style.display = "inline-block";
+      } catch (err) {
+        statusText.textContent = "No progress found or error occurred.";
+      }
+    }
+
+    loadProgress();
+  </script>
+  <script src="/static/common.js"></script>
+</body>
+</html>

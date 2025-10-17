@@ -1,0 +1,5 @@
+logs/*
+DB/*
+data/*
+__pycache__/*
+.DS_Store

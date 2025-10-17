@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Admin Dashboard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      padding: 40px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 10px;
+      font-size: 16px;
+    }
+
+    table {
+      margin: auto;
+      margin-top: 20px;
+      border-collapse: collapse;
+      width: 80%;
+    }
+
+    th, td {
+      padding: 10px;
+      border: 1px solid #ccc;
+      text-align: center;
+    }
+
+    th {
+      background-color: #eee;
+    }
+
+    .chart-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+    }
+
+    .chart-container canvas {
+      max-width: 500px;
+      margin: 20px;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <!-- Admin Page header at the very top of the body -->
+  <h1 style="margin-bottom: 10px; color: #222;">Admin Page</h1>
+  <div style="margin-bottom: 30px;">
+    <button onclick="showTab('summarySection')" style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 5px; background-color: #4285f4; color: white; border: none;">Summary</button>
+    <button onclick="showTab('search')" style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 5px; background-color: #34a853; color: white; border: none;">Search</button>
+    <button onclick="showTab('allUsers')" style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 5px; background-color: #fbbc05; color: black; border: none;">All Annotators</button>
+    <button onclick="refreshDB()" style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 5px; background-color: #a142f4; color: white; border: none;">Refresh DB</button>
+    <button onclick="showTab('registerTab')" style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 5px; background-color: #ec4899; color: white; border: none;">Register Annotator</button>
+  </div>
+  <div id="summarySection" class="tab">
+    <div style="margin-bottom: 20px;">
+      <button onclick="showSubTab('annotatorStatsTab')" style="padding: 8px 16px; margin: 5px;">Annotator Stats</button>
+      <button onclick="showSubTab('answerStatsTab')" style="padding: 8px 16px; margin: 5px;">Answer Stats</button>
+    </div>
+    <div id="annotatorStatsTab">
+      <h2>Annotator Summary</h2>
+      <p id="userCount">Total Annotators Registered: ...</p>
+      <div style="display: flex; justify-content: center; gap: 50px; margin-top: 20px;">
+        <div>
+          <canvas id="ageChart" width="300" height="300"></canvas>
+          <div style="margin-top: 10px;">
+            <button onclick="downloadChart('ageChart')">Download Age Chart</button>
+          </div>
+        </div>
+        <div>
+          <canvas id="genderChart" width="300" height="300"></canvas>
+          <div style="margin-top: 10px;">
+            <button onclick="downloadChart('genderChart')">Download Gender Chart</button>
+          </div>
+        </div>
+      </div>
+      <!-- Average Time by Age and Gender charts -->
+      <div style="display: flex; justify-content: center; gap: 50px; margin-top: 40px;">
+        <div>
+          <canvas id="avgTimeAgeChart" width="300" height="300"></canvas>
+          <div style="margin-top: 10px;">
+            <button onclick="downloadChart('avgTimeAgeChart')">Download Time by Age</button>
+          </div>
+        </div>
+        <div>
+          <canvas id="avgTimeGenderChart" width="300" height="300"></canvas>
+          <div style="margin-top: 10px;">
+            <button onclick="downloadChart('avgTimeGenderChart')">Download Time by Gender</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="answerStatsTab" style="display: none;">
+      <h3>Total Annotation Distribution</h3>
+      <div style="display: flex; justify-content: center; gap: 50px; margin-top: 20px;">
+        <div>
+          <canvas id="totalAnswersChart" width="300" height="300"></canvas>
+          <div style="margin-top: 10px;">
+            <button onclick="downloadChart('totalAnswersChart')">Download Total Answers Chart</button>
+          </div>
+        </div>
+      </div>
+      <div style="display: flex; justify-content: center; gap: 50px; margin-top: 40px;">
+        <div>
+          <canvas id="genderAnswersChart" width="300" height="300"></canvas>
+          <div style="margin-top: 10px;">
+            <button onclick="downloadChart('genderAnswersChart')">Download Gender Answers Chart</button>
+          </div>
+        </div>
+        <div>
+          <canvas id="ageAnswersChart" width="300" height="300"></canvas>
+          <div style="margin-top: 10px;">
+            <button onclick="downloadChart('ageAnswersChart')">Download Answer by Age</button>
+          </div>
+        </div>
+      </div>
+      <!-- Dynamic Chart.js canvases will be appended here by admin.js -->
+      <div id="perInputTypeCharts" style="margin-top: 50px; display: flex; flex-direction: column; align-items: center;"></div>
+      <div id="perModelCharts" style="margin-top: 50px; display: flex; flex-direction: column; align-items: center;"></div>
+    </div>
+  </div>
+  <!-- Move summary tab here, before search tab -->
+  <div id="summary" class="tab" style="display:none;">
+    <table id="summaryTable">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Age</th>
+          <th>Gender</th>
+          <th>Progress</th>
+          <th>Average Time (s)</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <div id="search" class="tab" style="display:none;">
+    <div id="searchContainer">
+      <div id="searchHeaderContainer"></div>
+      <table id="searchTable">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Age</th>
+          <th>Gender</th>
+          <th>Progress</th>
+          <th>Average Time (s)</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    </div>
+  </div>
+  <div id="allUsers" class="tab" style="display:none;">
+    <div id="allUsersTable"></div>
+  </div>
+  <!-- Register Annotator Section -->
+  <div id="registerTab" style="display: none; padding: 20px;">
+    <h2>Register New Annotator</h2>
+    <form id="registerForm" style="max-width: 400px; margin: auto; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+      <div style="margin-bottom: 15px;">
+        <label for="newAnnotatorId" style="display: block; font-weight: bold; margin-bottom: 5px;">Annotator ID:</label>
+        <input type="text" id="newAnnotatorId" name="newAnnotatorId" required style="display: block; margin: 0 auto; width: 100%; max-width: 300px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+      </div>
+      <div style="margin-bottom: 15px;">
+        <label for="newAnnotatorPassword" style="display: block; font-weight: bold; margin-bottom: 5px;">Password:</label>
+        <input type="password" id="newAnnotatorPassword" name="newAnnotatorPassword" required style="display: block; margin: 0 auto; max-width: 300px; width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+      </div>
+      <div style="margin-bottom: 15px;">
+        <label for="newAnnotatorAge" style="display: block; font-weight: bold; margin-bottom: 5px;">Age:</label>
+        <input type="number" id="newAnnotatorAge" name="newAnnotatorAge" style="display: block; margin: 0 auto; max-width: 300px; width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+      </div>
+      <div style="margin-bottom: 15px;">
+        <label for="newAnnotatorGender" style="display: block; font-weight: bold; margin-bottom: 5px;">Gender:</label>
+        <select id="newAnnotatorGender" name="newAnnotatorGender" style="display: block; margin: 0 auto; max-width: 300px; width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+          <option value="">-- Select Gender --</option>
+          <option value="male">Male</option>
+          <option value="female">Female</option>
+          <option value="other">Other</option>
+        </select>
+      </div>
+      <button type="submit" style="width: 100%; padding: 10px; font-size: 16px; background-color: #4CAF50; color: white; border: none; border-radius: 5px;">Register</button>
+    </form>
+    <p id="registerResult"></p>
+  </div>
+  <script src="/static/common.js"></script>
+</body>
+<script src="admin.js"></script>
+</html>

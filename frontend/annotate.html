@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Annotate</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      padding: 40px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .container {
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+      max-width: 600px;
+      width: 100%;
+      text-align: center;
+      margin: auto;
+    }
+
+    .logo {
+      max-width: 100px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+
+    #history, h3 {
+      display: none;
+    }
+
+    #taskImage {
+      margin: 15px auto;
+      display: block;
+      border-radius: 4px;
+      max-width: 90%;
+      height: auto;
+    }
+
+    #input-area {
+      margin-bottom: 20px;
+    }
+
+    .score-btn {
+      margin: 5px;
+      padding: 10px 15px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      background-color: #f0f0f0;
+      cursor: pointer;
+      border-radius: 4px;
+      color: black;
+      font-weight: bold;
+    }
+
+    .score-btn.selected {
+      background-color: #007bff;
+      color: white;
+      border-color: #007bff;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #218838;
+    }
+
+    .progress-container {
+      background-color: #e0e0e0;
+      border-radius: 8px;
+      overflow: hidden;
+      height: 20px;
+      margin-bottom: 15px;
+    }
+
+    .progress-bar {
+      height: 100%;
+      background-color: #28a745;
+      text-align: right;
+      padding-right: 8px;
+      color: white;
+      font-size: 12px;
+      line-height: 20px;
+      border-radius: 8px 0 0 8px;
+      width: 0%;
+      transition: width 0.3s ease-in-out;
+    }
+
+    #status {
+      margin-top: 15px;
+      font-weight: bold;
+      color: green;
+    }
+
+    ul#history {
+      list-style-type: none;
+      padding: 0;
+      text-align: left;
+    }
+
+    ul#history li {
+      padding: 4px 0;
+      border-bottom: 1px solid #eee;
+    }
+
+    #logout-btn {
+      margin-top: 20px;
+      background-color: #dc3545;
+    }
+
+    #logout-btn:hover {
+      background-color: #c82333;
+    }
+
+    #user-profile {
+      font-size: 14px;
+      color: #555;
+      margin-bottom: 10px;
+    }
+
+    .celebrate {
+      animation: pulse 1s infinite alternate;
+      font-weight: bold;
+    }
+
+    @keyframes pulse {
+      from { color: green; transform: scale(1); }
+      to { color: orange; transform: scale(1.1); }
+    }
+
+    .text-content-box {
+      display: block;
+      background-color: #f8f8f8;
+      padding: 15px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      text-align: left;
+      white-space: pre-wrap;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      margin: 0 auto;
+      max-width: 90%;
+      box-sizing: border-box;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div id="user-profile"></div>
+    <h2>Welcome to the Annotation Task</h2>
+    <p id="user-profile"></p>
+    <div class="progress-container">
+      <div class="progress-bar" id="progressBar">0%</div>
+    </div>
+    <div id="task">
+      <p id="question"></p>
+      <div id="media-container" style="margin: 15px auto;"></div><br><br>
+
+      <div id="input-area"></div>
+      <div style="margin-top: 10px;">
+        <button onclick="submit()">Submit</button>
+        <button type="button" style="padding: 10px 20px; background-color: #ffc107; color: black; border: none; border-radius: 4px; cursor: pointer; margin-left: 10px;" onclick="clearBiasSelection()">Clear All</button>
+      </div>
+    </div>
+
+    <h3>History</h3>
+    <ul id="history"></ul>
+
+    <p id="status"></p>
+    <button id="logout-btn" onclick="logout()">Logout</button>
+  </div>
+
+  <script>
+    let currentTask = null;
+    let taskStartTime = null;
+    const annotator_id = localStorage.getItem("annotator_id");
+    if (!annotator_id) {
+      window.location.href = "/";
+    }
+    const session_id = "session_" + Date.now();
+
+    let selectedAnswer = null;
+    let selectedAnswers = [];
+
+    function selectAnswer(value) {
+      if (["bias_select", "prompt_eval", "youtube_rate"].includes(currentTask.task_type)) {
+        const index = selectedAnswers.indexOf(value);
+        if (index === -1) {
+          selectedAnswers.push(value);
+        } else {
+          selectedAnswers.splice(index, 1);
+        }
+        const containerId = currentTask.task_type === "youtube_rate" ? "#youtube-rate-buttons" : "#bias-buttons";
+        document.querySelectorAll(`${containerId} .score-btn`).forEach(btn => {
+          const val = btn.getAttribute("data-value");
+          btn.classList.toggle("selected", selectedAnswers.includes(val));
+        });
+      } else {
+        selectedAnswer = value;
+        document.querySelectorAll(".score-btn").forEach(btn => btn.classList.remove("selected"));
+        const selectedBtn = document.querySelector(`.score-btn[data-value="${value}"]`);
+        if (selectedBtn) selectedBtn.classList.add("selected");
+      }
+    }
+
+    function clearBiasSelection() {
+      selectedAnswers = [];
+      document.querySelectorAll("#bias-buttons .score-btn").forEach(btn => btn.classList.remove("selected"));
+    }
+
+    function selectYoutubeRate(value) {
+      selectedAnswer = value;
+    }
+
+    function renderTask(task) {
+      document.getElementById("question").innerText = task.question;
+      const mediaContainer = document.getElementById("media-container");
+      mediaContainer.innerHTML = "";
+      selectedAnswer = null;
+      selectedAnswers = [];
+
+      // 이미지
+      if (task.input_type === "image") {
+        mediaContainer.innerHTML = `<img id="taskImage" src="${task.content_url}" style="max-width: 90%; height: auto; border-radius: 4px; display: block; margin: 0 auto;">`;
+      }
+      // 텍스트
+      else if (task.input_type === "text") {
+        fetch(task.content_url)
+          .then(res => res.text())
+          .then(text => {
+            mediaContainer.innerHTML = `<div class="text-content-box">${text}</div>`;
+          })
+          .catch(() => {
+            mediaContainer.textContent = "Unable to load text content.";
+          });
+      }
+      // 비디오 (YouTube)
+      else if (task.input_type === "video") {
+        const youtubeRegex = /(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([^"&?\/\s]{11})/i;
+        const match = task.content_url.match(youtubeRegex);
+        let metaHTML = '';
+        if (task.metainfo) {
+            metaHTML = `
+                <div style="
+                    width: 30vw;
+                    margin: 0 auto 8px auto;
+                    background-color: #f1f1f1;
+                    padding: 6px 10px;
+                    font-size: 14px;
+                    border-radius: 6px;
+                    text-align: center;
+                ">
+                    Movie Title: ${task.metainfo.title || 'N/A'}<br>Genre: ${task.metainfo.genre || 'N/A'}
+                </div>
+            `;
+        }
+
+        if (match && match[1]) {
+          const videoId = match[1];
+          mediaContainer.innerHTML = `
+            ${metaHTML}
+            <div style="position: relative; width: 30vw; height: 53.3vw; margin: 0 auto; overflow: hidden; border-radius: 8px;">
+              <iframe
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;"
+                src="https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen>
+              </iframe>
+            </div>
+            `;
+        }
+      }
+    
+      // input-area 생성
+      const inputArea = document.getElementById("input-area");
+      inputArea.innerHTML = "";
+      if (task.task_type === "bias_select") {
+        const biasOptions = [
+          "Race", "Age", "Gender", "Nationality", "Religion",
+          "Culture", "Disability", "Social Status", "Sexual Identity", "Appearance"
+        ];
+        let buttons = "";
+        for (const option of biasOptions) {
+          buttons += `<button type="button" class="score-btn" data-value="${option}" onclick="selectAnswer('${option}')">${option}</button> `;
+        }
+        // delete None button for youtube_rate follow-up Q
+        // buttons += `<button type="button" class="score-btn" data-value="None" onclick="selectAnswer('None')">None</button>`;
+        inputArea.innerHTML = `<div id="bias-buttons">${buttons}</div>`;
+      }
+    }
+
+    async function loadHistory() {
+            // Fetch progress and recent annotations from server API
+      const progressData = await getProgress(annotator_id);
+
+      if (!progressData) {
+        console.error("Failed to fetch progress");
+        return;
+      }
+      const { total, completed, allTasksCompleted } = progressData;
+
+      if (allTasksCompleted) {
+        window.location.href = "/static/completed.html";
+        return;
+      }
+
+      const historyList = document.getElementById("history");
+      historyList.innerHTML = "";
+      const percent = Math.min(100, Math.round((completed.length / total) * 100));
+      progressBar.style.width = `${percent}%`;
+      progressBar.textContent = `${percent}%`;
+      progressBar.classList.toggle("celebrate", percent >= 100);
+    }
+
+    async function loadTask() {
+            // Use server-side API to get progress and completed set
+      const progressData = await getProgress(annotator_id);
+
+      if (!progressData) {
+        console.error("Failed to fetch progress");
+        return;
+      }
+      const { total, completed, allTasksCompleted } = progressData;
+      const metaRes = await fetch("/contents/meta.json");
+      const meta = await metaRes.json();
+      let nextIdx = -1;
+      console.log(completed.length)
+      for (let i = 0; i < meta.length; i++) {
+        const id = `${meta[i].model_id}_${meta[i].input_type}_${meta[i].task_type}_${i + 1}`;
+        
+        if (!completed.includes(id)) {
+          nextIdx = i;
+          break;
+        }
+      }
+      if (nextIdx === -1) {
+        // All tasks completed
+        return "done";
+      }
+      console.log(nextIdx)
+      const item = meta[nextIdx];
+      const text_prompt = item.text_prompt || null;
+      // YouTube 링크인지 확인하고 적절한 URL 생성
+      let content_url;
+      const filename = item.filename;
+      if (filename.startsWith('www.youtube.com') || filename.startsWith('youtube.com') || filename.startsWith('youtu.be')) {
+        content_url = filename.startsWith('http') ? filename : `https://${filename}`;
+      } else if (filename.startsWith('http://') || filename.startsWith('https://')) {
+        content_url = filename;
+      } else {
+        content_url = `/contents/${filename}`;
+      }
+      const task = {
+        content_id: `${item.model_id}_${item.input_type}_${item.task_type}_${nextIdx + 1}`,
+        question: item.question,
+        task_type: item.task_type,
+        input_type: item.input_type,
+        text_prompt: text_prompt,
+        content_url: content_url,
+        metainfo: item.metainfo || null  // 메타정보 추가
+      };
+      currentTask = task;
+      document.getElementById("question").innerText = task.question;
+      const mediaContainer = document.getElementById("media-container");
+      mediaContainer.innerHTML = "";
+      selectedAnswer = null;
+      selectedAnswers = [];
+      if (task.input_type === "image") {
+        mediaContainer.innerHTML = `<img id="taskImage" src="${task.content_url}" style="max-width: 90%; height: auto; border-radius: 4px; display: block; margin: 0 auto;">`;
+      } else if (task.input_type === "text") {
+        try {
+          const textRes = await fetch(task.content_url);
+          const textContent = await textRes.text();
+          mediaContainer.innerHTML = `<div class="text-content-box">${textContent}</div>`;
+        } catch (e) {
+          mediaContainer.textContent = "Unable to load text content.";
+        }
+      } else if (task.input_type === "audio") {
+        mediaContainer.innerHTML = `<audio controls src="${task.content_url}" style="max-width: 90%;"></audio>`;
+      } else if (task.input_type === "video") {
+        const youtubeRegex = /(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|(?:www\.)?youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([^"&?\/\s]{11})/i;
+        const match = task.content_url.match(youtubeRegex);
+        let metaHTML = '';
+        if (task.metainfo) {
+            metaHTML = `
+                <div style="
+                    width: 30vw;
+                    margin: 0 auto 8px auto;
+                    background-color: #f1f1f1;
+                    padding: 6px 10px;
+                    font-size: 14px;
+                    border-radius: 6px;
+                    text-align: center;
+                ">
+                    Movie Title: ${task.metainfo.title || 'N/A'}<br>Genre: ${task.metainfo.genre || 'N/A'}
+                </div>
+            `;
+        }
+        if (match && match[1]) {
+          const videoId = match[1];
+          mediaContainer.innerHTML = `
+            ${metaHTML}
+            <div style="
+              position: relative;
+              width: 30vw;
+              height: 53.3vw;
+              margin: 0 auto;
+              overflow: hidden;
+              border-radius: 8px;
+            ">
+              <iframe
+                style="
+                  position: absolute;
+                  top: 0;
+                  left: 0;
+                  width: 100%;
+                  height: 100%;
+                  border: none;
+                  border-radius: 8px;
+                "
+                src="https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen>
+              </iframe>
+            </div>
+          `;
+        } else {
+          mediaContainer.innerHTML = `
+            <video controls style="max-width: 90%; height: auto; border-radius: 4px; display: block; margin: 0 auto;">
+              <source src="${task.content_url}">
+              Your browser does not support the video tag.
+            </video>
+          `;
+        }
+      } else if (task.input_type === "text-to-image") {
+        mediaContainer.innerHTML = `
+          <div style="text-align: left; margin-bottom: 10px; font-weight: bold;">Prompt:</div>
+          <div style="margin-bottom: 15px; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 5px;">${task.text_prompt}</div>
+          <img id="taskImage" src="${task.content_url}" style="max-width: 90%; height: auto; border-radius: 4px; display: block; margin: 0 auto;">
+        `;
+      } else {
+        mediaContainer.innerHTML = `<img id="taskImage" src="${task.content_url}" style="max-width: 90%; height: auto; border-radius: 4px; display: block; margin: 0 auto;">`;
+      }
+      const inputArea = document.getElementById("input-area");
+      inputArea.innerHTML = "";
+      if (task.task_type === "yesno") {
+        inputArea.innerHTML = `
+          <div id="yesno-buttons">
+            <button type="button" class="score-btn" data-value="yes" onclick="selectAnswer('yes')">그렇다</button>
+            <button type="button" class="score-btn" data-value="no" onclick="selectAnswer('no')">그렇지 않다</button>
+            <button type="button" class="score-btn" data-value="irrelevant" onclick="selectAnswer('irrelevant')">질문과 이미지가 관련 없음</button>
+          </div>
+        `;
+      } else if (task.task_type === "youtube_rate") {
+        const options = ['Sex and Nudity', 'Violence', 'Language', 'Drugs', 'Bias'];
+        let buttons = "";
+        for (const option of options) {
+          buttons += `<button type="button" class="score-btn" data-value="${option}" onclick="selectAnswer('${option}')">${option}</button> `;
+        }
+        buttons += `<button type="button" class="score-btn" data-value="None" onclick="selectAnswer('None')">None</button>`;
+        inputArea.innerHTML = `<div id="youtube-rate-buttons">${buttons}</div>`;
+      } else if (task.task_type === "bias_select") {
+        const biasOptions = [
+          "Race", "Age", "Gender", "Nationality", "Religion",
+          "Culture", "Disability", "Social Status", "Sexual Identity", "Appearance"
+        ];
+        let buttons = "";
+        for (const option of biasOptions) {
+          buttons += `<button type="button" class="score-btn" data-value="${option}" onclick="selectAnswer('${option}')">${option}</button> `;
+        }
+        buttons += `<button type="button" class="score-btn" data-value="None" onclick="selectAnswer('None')">None</button>`;
+        inputArea.innerHTML = `<div id="bias-buttons">${buttons}</div>`;
+      } else if (task.task_type === "prompt_eval") {
+        const promptOptions = [
+          "Race", "Age", "Gender", "Nationality", "Religion",
+          "Culture", "Disability", "Social Status", "Sexual Identity", "Appearance",
+          "Clothing", "History", "Pose", "Education", "Environment",
+          "Behavior", "Emotion", "Politics", "Occupation"
+        ];
+        let buttons = "";
+        for (const option of promptOptions) {
+          buttons += `<button type="button" class="score-btn" data-value="${option}" onclick="selectAnswer('${option}')">${option}</button> `;
+        }
+        buttons += `<button type="button" class="score-btn" data-value="None" onclick="selectAnswer('None')">None</button>`;
+        inputArea.innerHTML = `<div id="bias-buttons">${buttons}</div>`;
+      } else if (task.task_type === "score") {
+        let buttons = "";
+        for (let i = 1; i <= 5; i++) {
+          buttons += `<button type="button" class="score-btn" data-value="${i}" onclick="selectAnswer('${i}')">${i}</button> `;
+        }
+        inputArea.innerHTML = `<div id="score-buttons">${buttons}</div>`;
+      }
+      taskStartTime = Date.now();
+      return "continue";
+    }
+
+    async function submit() {
+      let answer;
+      if (currentTask.task_type === "youtube_rate") {
+    // multi-select 답
+    answer = selectedAnswers.join(",");
+
+    if (selectedAnswers.includes("None") && selectedAnswers.length > 1) {
+        alert("You cannot select 'None' along with other options.");
+        return;
+      }
+      if (selectedAnswers.length === 0) {
+        alert("Please select at least one option.");
+        return;
+      }
+
+    // Bias가 포함되어 있는지 확인
+    if (selectedAnswers.includes("Bias")) {
+      // 기존 선택된 다른 옵션 저장 (Bias 제외)
+      const allAnswers = selectedAnswers.join(",");
+
+      // 기존 선택된 answer 저장
+      if (allAnswers) {
+        await fetch("/submit-annotation", {
+          method: "POST",
+          headers: {"Content-Type": "application/json"},
+          body: JSON.stringify({
+            content_id: currentTask.content_id,
+            answer: allAnswers,
+            annotator_id: annotator_id,
+            session_id: session_id,
+            time_spent: Math.round((Date.now() - taskStartTime)/1000)
+          })
+        });
+      }
+    
+      // 임시 follow-up task 생성
+      const biasTask = {
+        content_id: currentTask.content_id + "_bias", // 기존 content_id와 구분
+        question: "Please select any bias present",
+        task_type: "bias_select",
+        input_type: currentTask.input_type,
+        content_url: currentTask.content_url,
+        text_prompt: currentTask.text_prompt || null,
+        is_follow_up: true // 필요시 표시용
+      };
+    
+      currentTask = biasTask;
+    
+      // 선택 초기화
+      selectedAnswers = [];
+      selectedAnswer = null;
+      taskStartTime = Date.now();
+    
+      // 바로 로드
+      renderTask(currentTask); // loadTask에서 DOM 렌더 부분만 따로 빼서 재사용
+      return;
+    }
+    } else if (currentTask.task_type === "yesno" || currentTask.task_type === "score") {
+      answer = selectedAnswer;
+    } else if (["bias_select", "prompt_eval"].includes(currentTask.task_type)) {
+      answer = selectedAnswers.join(",");
+      if (selectedAnswers.includes("None") && selectedAnswers.length > 1) {
+        alert("You cannot select 'None' along with other options.");
+        return;
+      }
+      if (selectedAnswers.length === 0) {
+        alert("Please select at least one option.");
+        return;
+      }
+    }
+
+    if (!answer) {
+      alert("Please provide an answer");
+      return;
+    }
+
+
+      if (!answer) {
+        alert("Please provide an answer");
+        return;
+      }
+
+      const timeSpentSec = Math.round((Date.now() - taskStartTime) / 1000);
+
+      const payload = {
+        content_id: currentTask.content_id,
+        answer: answer,
+        annotator_id: annotator_id,
+        session_id: session_id,
+        time_spent: timeSpentSec
+      };
+
+      const res = await fetch("/submit-annotation", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify(payload)
+      });
+
+      const status = document.getElementById("status");
+      if (res.ok) {
+        status.textContent = "Annotation submitted!";
+        
+        const progressData = await getProgress(annotator_id);
+
+        if (!progressData) {
+          console.error("Failed to fetch progress");
+          return;
+        }
+        const { total, completed, allTasksCompleted } = progressData;
+
+        
+        if (completed.length >= total) {
+          window.location.href = "/static/completed.html";
+        } else {
+          loadTask();
+          loadHistory();
+        }
+      } else {
+        status.textContent = "Error submitting annotation.";
+      }
+    }
+
+    function logout() {
+      localStorage.removeItem("annotator_id");
+      window.location.href = "/";
+    }
+
+    document.addEventListener("click", function (e) {
+      if (e.target.classList.contains("score-btn") && e.target.parentElement.id === "score-buttons") {
+        document.querySelectorAll(".score-btn").forEach(btn => btn.classList.remove("selected"));
+        e.target.classList.add("selected");
+      }
+    });
+
+    let progressBar;
+    // Helper function to get progress like progress.html
+    async function getProgress(annotator_id) {
+      // Returns { total, completed, allTasksCompleted }
+      const res = await fetch(`/api/progress/${annotator_id}`);
+      if (!res.ok) return { total: 0, completed: [], allTasksCompleted: false };
+      const data = await res.json();
+      const { total, completed, allTasksCompleted } = data;
+      return { total, completed, allTasksCompleted };
+    }
+
+    document.addEventListener("DOMContentLoaded", async () => {
+      progressBar = document.getElementById("progressBar");
+      document.getElementById("user-profile").textContent = `Annotator: ${annotator_id} | Session: ${session_id}`;
+      // Use getProgress for progress bar and completion check
+      try {
+        const progressData = await getProgress(annotator_id);
+
+        if (!progressData) {
+          console.error("Failed to fetch progress");
+          return;
+        }
+        const { total, completed, allTasksCompleted } = progressData;
+        console.log(completed.length)
+        const percent = Math.round((completed.length / total) * 100);
+        progressBar.style.width = percent + "%";
+        progressBar.textContent = percent + "%";
+        progressBar.classList.toggle("celebrate", percent >= 100);
+        if (allTasksCompleted) {
+          window.location.href = "/static/completed.html";
+          return;
+        }
+      } catch {}
+      const taskStatus = await loadTask();
+      await loadHistory();
+      if (taskStatus === "done") {
+        window.location.href = "/static/completed.html";
+      }
+    });
+  </script>
+  <script src="/static/common.js"></script>
+</body>
+</html>
