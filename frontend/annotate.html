@@ -298,7 +298,7 @@
         ];
         let buttons = "";
         for (const option of biasOptions) {
-          buttons += `<button type="button" class="score-btn" data-value="${option}" onclick="selectAnswer('${option}')">${option}</button> `;
+          buttons += `<button type="button" class="score-btn" data-value="${option}" onclick="selectAnswer('${option}')">Bias: ${option}</button> `;
         }
         // delete None button for youtube_rate follow-up Q
         // buttons += `<button type="button" class="score-btn" data-value="None" onclick="selectAnswer('None')">None</button>`;
