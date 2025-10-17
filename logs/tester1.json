@@ -1,0 +1,2833 @@
+[
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_1",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 4,
+    "timestamp": "2025-10-14T09:33:13.044835",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_2",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:33:14.627328",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_3",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:33:16.299757",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_4",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:33:17.685469",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_5",
+    "answer": [
+      "Sex and Nudity",
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:33:19.297120",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_6",
+    "answer": [
+      "Sex and Nudity",
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:33:21.001486",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_7",
+    "answer": [
+      "Sex and Nudity",
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 4,
+    "timestamp": "2025-10-14T09:33:25.161852",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_8",
+    "answer": [
+      "Sex and Nudity",
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:33:27.182653",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_9",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:33:28.482874",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_10",
+    "answer": [
+      "Language",
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 3,
+    "timestamp": "2025-10-14T09:33:31.209401",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_11",
+    "answer": [
+      "Violence",
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:33:33.060320",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_12",
+    "answer": [
+      "Language",
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:33:35.120550",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_13",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:33:36.547961",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_14",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 4,
+    "timestamp": "2025-10-14T09:33:40.712807",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_15",
+    "answer": [
+      "Bias",
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 4,
+    "timestamp": "2025-10-14T09:33:44.649362",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_15_bias",
+    "answer": "Nationality,Sexual Identity",
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:33:47.127779",
+    "model_id": null,
+    "input_type": null
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_16",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:33:49.070754",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_17",
+    "answer": [
+      "Bias"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:33:50.683037",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_17_bias",
+    "answer": "Nationality,Gender",
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:33:52.246967",
+    "model_id": null,
+    "input_type": null
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_18",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:33:53.643647",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_19",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 23,
+    "timestamp": "2025-10-14T09:34:17.168848",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_20",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:34:19.291826",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_21",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:20.708750",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_22",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:22.124526",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_23",
+    "answer": [
+      "Violence",
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:34:23.775632",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_24",
+    "answer": [
+      "Drugs",
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:25.225234",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_25",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:26.347138",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_26",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:27.579178",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_27",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:28.695710",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_28",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:29.940788",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_29",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:31.351657",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_30",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:32.443072",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_31",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:33.666621",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_32",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:34.712137",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_33",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:35.743120",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_34",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:36.751229",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_35",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:37.742792",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_36",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:38.803210",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_37",
+    "answer": [
+      "Sex and Nudity",
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:40.189088",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_38",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:41.204842",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_39",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:41.986463",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_40",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:42.979188",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_41",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:44.063204",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_42",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:45.023158",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_43",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:46.051409",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_44",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:46.999423",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_45",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:47.913197",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_46",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:48.826595",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_47",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:49.709014",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_48",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:51.003194",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_49",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:52.048521",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_50",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:53.249623",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_51",
+    "answer": [
+      "Bias"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:54.442557",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_51_bias",
+    "answer": "Nationality,Religion",
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:34:56.123401",
+    "model_id": null,
+    "input_type": null
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_52",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:57.246856",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_53",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:58.236996",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_54",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:34:59.237548",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_55",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:00.229176",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_56",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:01.188726",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_57",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:02.078781",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_58",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:03.095421",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_59",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:04.118092",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_60",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:05.054428",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_61",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:06.502994",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_62",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:07.764631",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_63",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:08.671526",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_64",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:09.724154",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_65",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:10.787085",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_66",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:11.800324",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_67",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:12.629130",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_68",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:13.364755",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_69",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:14.024866",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_70",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:15.179193",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_71",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:16.316938",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_72",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:17.309144",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_73",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:18.415425",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_74",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:19.266824",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_75",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:20.663411",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_76",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:35:22.234994",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_77",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:35:23.931603",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_78",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:25.023010",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_79",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:35:26.797422",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_80",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:27.865570",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_81",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:28.949028",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_82",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:30.043024",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_83",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:35:32.226987",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_84",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:35:34.511251",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_85",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:35:36.541313",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_86",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:35:38.579650",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_87",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:35:40.205785",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_88",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:41.180624",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_89",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:35:43.707630",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_90",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:35:45.363152",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_91",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:35:47.385311",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_92",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:48.352939",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_93",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:49.283275",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_94",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:50.420550",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_95",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:51.768616",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_96",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:53.125104",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_97",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:54.231791",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_98",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:55.247065",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_99",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:56.244945",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_100",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:57.260730",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_101",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:58.313231",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_102",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:35:59.367419",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_103",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:00.553200",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_104",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:01.845174",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_105",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:03.047546",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_106",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:04.255415",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_107",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:05.371040",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_108",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:06.587119",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_109",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:07.741092",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_110",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:08.848744",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_111",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:09.941630",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_112",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:11.148407",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_113",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:12.489615",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_114",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:13.743156",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_115",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:14.875431",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_116",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:15.974730",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_117",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 5,
+    "timestamp": "2025-10-14T09:36:20.775973",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_118",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 3,
+    "timestamp": "2025-10-14T09:36:24.146620",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_119",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 6,
+    "timestamp": "2025-10-14T09:36:29.700379",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_120",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:36:31.706934",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_121",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 6,
+    "timestamp": "2025-10-14T09:36:37.856563",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_122",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:36:40.313082",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_123",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:36:42.025083",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_124",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:43.488415",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_125",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:44.435090",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_126",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:45.494896",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_127",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:46.578897",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_128",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:47.548645",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_129",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:48.524554",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_130",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:49.514972",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_131",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:51.040116",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_132",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 4,
+    "timestamp": "2025-10-14T09:36:55.203674",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_133",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:36:56.960632",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_134",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:57.796217",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_135",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:58.859130",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_136",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:36:59.851073",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_137",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:00.972971",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_138",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:02.067540",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_139",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:03.382986",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_140",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:04.351373",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_141",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:05.558729",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_142",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:37:07.566995",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_143",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:08.549428",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_144",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:09.479089",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_145",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:10.338355",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_146",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:11.447455",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_147",
+    "answer": [
+      "Drugs",
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:37:13.800901",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_148",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:14.908922",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_149",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:15.924362",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_150",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:16.831227",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_151",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:17.776124",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_152",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:18.813043",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_153",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:19.936992",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_154",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:20.974222",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_155",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:21.864561",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_156",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:22.873433",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_157",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:23.965469",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_158",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:37:25.692825",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_159",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:26.753433",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_160",
+    "answer": [
+      "Language",
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:37:28.875174",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_161",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:29.720835",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_162",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:30.587252",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_163",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:31.486048",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_164",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:32.422756",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_165",
+    "answer": [
+      "Violence",
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:33.886366",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_166",
+    "answer": [
+      "Sex and Nudity",
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:37:35.955406",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_167",
+    "answer": [
+      "Sex and Nudity",
+      "Language",
+      "Drugs",
+      "Bias"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 3,
+    "timestamp": "2025-10-14T09:37:39.419304",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_167_bias",
+    "answer": "Sexual Identity,Nationality",
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:37:41.524588",
+    "model_id": null,
+    "input_type": null
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_168",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:37:43.159067",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_169",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:44.237795",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_170",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:45.229356",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_171",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:37:46.887161",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_172",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:47.800861",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_173",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:37:49.698619",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_174",
+    "answer": [
+      "Bias",
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 4,
+    "timestamp": "2025-10-14T09:37:54.136842",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_174_bias",
+    "answer": "Sexual Identity",
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:55.531240",
+    "model_id": null,
+    "input_type": null
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_175",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:37:57.221535",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_176",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:58.467042",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_177",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:37:59.521282",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_178",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:00.605152",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_179",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:01.783268",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_180",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:02.904409",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_181",
+    "answer": [
+      "Sex and Nudity",
+      "Violence",
+      "Language"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:38:05.360941",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_182",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:06.374742",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_183",
+    "answer": [
+      "Drugs"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:38:08.024973",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_184",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:09.048498",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_185",
+    "answer": [
+      "Sex and Nudity"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:38:10.868949",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_186",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:11.672805",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_187",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:12.673339",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_188",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:13.686516",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_189",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:14.625044",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_190",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:15.632574",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_191",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 4,
+    "timestamp": "2025-10-14T09:38:20.163398",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_192",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:21.216347",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_193",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:22.263242",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_194",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:23.185399",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_195",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:24.338691",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_196",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:38:25.940823",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_197",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:27.173011",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_198",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:28.235640",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_199",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:29.341982",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_200",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:30.373038",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_201",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:31.526873",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_202",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:32.640984",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_203",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:38:34.306846",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_204",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:35.228840",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_205",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:36.320589",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_206",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:38:38.560024",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_207",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:39.543206",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_208",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:40.548813",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_209",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:41.384939",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_210",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:42.245305",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_211",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:43.058377",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_212",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:43.935175",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_213",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:44.800032",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_214",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:45.870601",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_215",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:46.869509",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_216",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:38:48.465060",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_217",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:49.276624",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_218",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:50.214985",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_219",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:51.290521",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_220",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:52.266976",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_221",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 2,
+    "timestamp": "2025-10-14T09:38:53.986455",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_222",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:54.954988",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_223",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:55.993029",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_224",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:57.093691",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_225",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:58.247405",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_226",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:38:59.347376",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_227",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 1,
+    "timestamp": "2025-10-14T09:39:00.688564",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_228",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 8,
+    "timestamp": "2025-10-14T09:39:08.681675",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_229",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 4,
+    "timestamp": "2025-10-14T09:39:12.460824",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_230",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester1",
+    "session_id": "session_1760434389382",
+    "time_spent": 3,
+    "timestamp": "2025-10-14T09:39:15.644995",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  }
+]

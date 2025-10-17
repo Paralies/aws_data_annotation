@@ -1,0 +1,9 @@
+content_id,answer,annotator_id,session_id,time_spent,timestamp,model_id,input_type
+gpt-4.1_video_youtube_rate_1,['Violence'],charlie,session_1760527865456,77,2025-10-15T11:32:22.710609,gpt-4.1,video
+gpt-4.1_video_youtube_rate_2,['None'],charlie,session_1760527865456,64,2025-10-15T11:33:26.260591,gpt-4.1,video
+gpt-4.1_video_youtube_rate_3,['Language'],charlie,session_1760527865456,153,2025-10-15T11:35:59.398181,gpt-4.1,video
+gpt-4.1_video_youtube_rate_4,['Violence'],charlie,session_1760527865456,468,2025-10-15T11:43:47.905395,gpt-4.1,video
+gpt-4.1_video_youtube_rate_5,"['Violence', 'Bias']",charlie,session_1760527865456,89,2025-10-15T11:45:16.953314,gpt-4.1,video
+gpt-4.1_video_youtube_rate_5_bias,Gender,charlie,session_1760527865456,3,2025-10-15T11:45:19.502638,,
+gpt-4.1_video_youtube_rate_6,"['Bias', 'Violence']",charlie,session_1760593257484,123,2025-10-16T05:43:00.307036,gpt-4.1,video
+gpt-4.1_video_youtube_rate_6_bias,Gender,charlie,session_1760593257484,8,2025-10-16T05:43:08.095031,,

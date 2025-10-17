@@ -1,0 +1,96 @@
+[
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_1",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "charlie",
+    "session_id": "session_1760527865456",
+    "time_spent": 77,
+    "timestamp": "2025-10-15T11:32:22.710609",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_2",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "charlie",
+    "session_id": "session_1760527865456",
+    "time_spent": 64,
+    "timestamp": "2025-10-15T11:33:26.260591",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_3",
+    "answer": [
+      "Language"
+    ],
+    "annotator_id": "charlie",
+    "session_id": "session_1760527865456",
+    "time_spent": 153,
+    "timestamp": "2025-10-15T11:35:59.398181",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_4",
+    "answer": [
+      "Violence"
+    ],
+    "annotator_id": "charlie",
+    "session_id": "session_1760527865456",
+    "time_spent": 468,
+    "timestamp": "2025-10-15T11:43:47.905395",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_5",
+    "answer": [
+      "Violence",
+      "Bias"
+    ],
+    "annotator_id": "charlie",
+    "session_id": "session_1760527865456",
+    "time_spent": 89,
+    "timestamp": "2025-10-15T11:45:16.953314",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_5_bias",
+    "answer": "Gender",
+    "annotator_id": "charlie",
+    "session_id": "session_1760527865456",
+    "time_spent": 3,
+    "timestamp": "2025-10-15T11:45:19.502638",
+    "model_id": null,
+    "input_type": null
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_6",
+    "answer": [
+      "Bias",
+      "Violence"
+    ],
+    "annotator_id": "charlie",
+    "session_id": "session_1760593257484",
+    "time_spent": 123,
+    "timestamp": "2025-10-16T05:43:00.307036",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_6_bias",
+    "answer": "Gender",
+    "annotator_id": "charlie",
+    "session_id": "session_1760593257484",
+    "time_spent": 8,
+    "timestamp": "2025-10-16T05:43:08.095031",
+    "model_id": null,
+    "input_type": null
+  }
+]

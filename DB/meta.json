@@ -1,0 +1,2532 @@
+[
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/0hh9sQ7vA_E?si=RBDgnHMlyp-NPHWH",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"10 Cloverfield Lane",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/4_q_IA6LeUw?si=6HKKbc_tRdIPTTwY",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"12 Angry Men",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/OzAeH3ld0pg?si=MBuDD0hZmNW1O1xx",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"21 Jump Street",
+      "genre":"Comedy; Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Fq8HFlrULw0?si=MLHHuIFswsdNeIER",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"28 Days Later",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/CUT9vzYimLU?si=GMSmNTyrEqSuPHly",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"28 Weeks Later",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/k03ocvisAbM?si=T7TXxIo62JFVlWER",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"300",
+      "genre":"Action"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/_aUWNB4K6wY?si=tmGC4m66BuOknOit",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"A Beautiful Mind",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/031Fy29u1Ww?si=LrkFrQ5vPeozkGCQ",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"A Clockwork Orange",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/P2VjzXktbAc?si=Y2hmp9pdSd5diFD7",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"A Quiet Place",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/O50w8H9_1qg?si=ogcTBxxo4hHF-3kR",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Alien",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/l9qh3ksbCaQ?si=_XAFa1W3dowF5FxI",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Alien: Covenant",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Le9ZYfs3IkU?si=wG8OCbHeMKyR-bEF",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Aliens",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/i7ADCg6d7gM?si=wate-1xOuiMcRSxJ",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Alien³",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/mka3rGXs15g?si=REblL64xVTW9sY4t",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"American Beauty",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/zRYT9ib-J94?si=DP0p_J5mch14QXUt",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"American History X",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/a0y_pc2g6Iw?si=EKQdBkYyOqTs885z",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"American Psycho",
+      "genre":"Crime; Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/llS_OjW8H_k?si=7SzShTkNar-UAv33",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Amélie",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/viESEYdHLbc?si=LjkvmWf1ebgJR87n",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Annihilation",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Q6m7n9MPBM8?si=qo-h6IGHIhujnghA",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Ant-Man",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/bRT4WYsCScg?si=6mg7S62xpvftvpBl",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Avatar",
+      "genre":"Action; Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/urRg7lxIS5I?si=7fE66JNI2_EL_orz",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Avengers: Age of Ultron",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Iy12ZMAD-Wk?si=Mr26pVpI-IokoMli",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Avengers: Endgame",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/8nlnsF8WhiM?si=Ricf30-v3wpzDoEh",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Avengers: Infinity War",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/XCNFOiVp7NM?si=sAsNaWuSeNcJgHD6",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Baby Driver",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/j4HG2XT42HM?si=2_k4ZhVvxsMWVV4T",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Back to the Future",
+      "genre":"Adventure; Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/RmGGHanR4nw?si=xv8-46MDrn2EWiOU",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Back to the Future Part II",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/rCvJm8F5L6Q?si=eCPENchst_yc9NAE",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Barbie",
+      "genre":"Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/XhN5GisjH1Y?si=YYqcthfxzR_lem0j",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Batman Begins",
+      "genre":"Action; Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/DYXOZfgenDQ?si=KZOCisRmVBuAsTqy",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Bird Box",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/wTjQUFgTkF0?si=gd94y2sYmPJrGnMo",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Birdman or (The Unexpected Virtue of Ignorance)",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/hlMrNq1_Sw8?si=APHI5qiOw1uFtQ4c",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Black Panther",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/davgFoxUmTA?si=rk_Cji9b8Yi3UPMs",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Blade Runner",
+      "genre":"Action"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/OrDsMLpnuzw?si=BbSoa7j0Y3287-gY",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Braveheart",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/9h1kAiphrFY?si=NQ-vOV0B-TrP0uR1",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Captain America: Civil War",
+      "genre":"Action"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/0ylC1RblwFc?si=c-0WUoKUGnwdd3h9",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Captain America: The First Avenger",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/iVlVcEjiK-Q?si=eA5hg3MJvHbGQEuB",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Captain America: The Winter Soldier",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/n6H7Pfp-8rs?si=z-gdgZHAb7jUySm1",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Catch Me If You Can",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/7jy8NoEJJYU?si=FoIlo5lAFku46psu",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"City of God",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/NdusZmcS8Wg?si=AfmOGnHMvz6A7RfV",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Cloverfield",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/cYgNr5qJTGY?si=iH6P2oCUYfW3_9bw",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Coco",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/ZdwhDs6qotw?si=e2zXkuWBXo-Nt1bR",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Constantine",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/ZHrPR5xfMuM?si=s7waqEKoODh_h4-h",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Dead Poets Society",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/4DVRhnXVfi8?si=63tNBLj8te0VmJ3S",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Deadpool",
+      "genre":"Action; Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/hn9kVfeGwDk?si=MPXVGdFC48rVo0Wm",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Deadpool 2",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/QtBT3GMbJHc?si=uaZptwf5Ek7j5pgw",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Despicable Me",
+      "genre":"Comedy; Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/MrjavRENf4o?si=I5lE1ryToNHGZGwT",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Die Hard",
+      "genre":"Action"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/LDfIBLCgpjw?si=PQiGAgm6FFoLTL6y",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Django Unchained",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/PNNt72xs4Yw?si=kBOtulEIs9RWzX0J",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Doctor Strange",
+      "genre":"Action; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/HCGq7RFHzBc?si=HFJLZL9DkqT0vOyt",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Doctor Strange in the Multiverse of Madness",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/uL8uq97mHQk?si=C9iYFEEbBGCQREez",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Don't Look Up",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/n7f1YkYRxdo?si=gRM0FZj9A6-F60Inㅍ",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Dune: Part One",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/DXvmwBjZieA?si=YIwx-y7gRPae9NsP",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Eternal Sunshine of the Spotless Mind",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/CVCkHpM4Uw8?si=qYXYt98MpxryfiRQ",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Fargo",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/O6y-fKFoQR0?si=L158r3j_pNTXSzyc",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Fight Club",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/MmiOkMoxdiA?si=fX0CAKi_mY1q_ZCf",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Finding Nemo",
+      "genre":"Adventure; Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/MaO7c6pgqRs?si=VUTOBkqATTBP16Bw",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Forrest Gump",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/DFPpOwUnmog?si=iLjv9EyaZxykBSw7",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"From Dusk Till Dawn",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/zVNv8mY5CbI?si=NQBX7AapqnFM0Yy3",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Frozen",
+      "genre":"Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/RhYfNBEuChg?si=HvTQbwuTr2_muhCr",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Get Out",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/ahfil76Kc-o?si=bpucIGsFU7nS2VPk",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Gladiator",
+      "genre":"Action; Adventure; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/U0DJTSCSqVg?si=LVY3rTsGJjHoFHhd",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Gone Girl",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/I8p6qm_AbHs?si=ZAtqFrNkc9w8DIhq",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Good Will Hunting",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/P7ESTwnILr8?si=DWOh4Wv40W0P3Rkk",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Goodfellas",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/wIjA3SJCasI?si=vI1Kj8b5XZGOWz8E",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Green Book",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/6xh3WxvYvMY?si=_rd6KHT0y0NWaRxs",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Groundhog Day",
+      "genre":"Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/fglnJ8JkwzU?si=RjRHuxODyn_8DhMZ",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Guardians of the Galaxy",
+      "genre":"Action; Adventure; Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/rBCQZ5QAOHM?si=UoQFXl5elAFSDlXn",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Guardians of the Galaxy Vol. 2",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/cADP0NVLNKo?si=CeAEqxmCrwy8ORZJ",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Halloween",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/wE0K20uHGHE?si=urjASKEImPW2YH_N",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Harry Potter and the Chamber of Secrets",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/oJjJOIHt0xk?si=Tb5FRWt0Xbz5IIog",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Harry Potter and the Deathly Hallows: Part 1",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Gbw2m7WbemQ?si=hLIuIHhTm_-zrxXL",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Harry Potter and the Deathly Hallows: Part 2",
+      "genre":"Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/fmSBgVs2gaE?si=m1416DZs3pYC-B5m",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Harry Potter and the Goblet of Fire",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Pl0doiUQye8?si=pZqWAOAD5QviuYBg",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Harry Potter and the Half-Blood Prince",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/x5HfUMF6Vy8?si=LhTGLeXrCXC8JYXa",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Harry Potter and the Order of the Phoenix",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/yAkEmGZi4KI?si=T5jr7F5YPZXiwDrS",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Harry Potter and the Prisoner of Azkaban",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/aN3kGuG0X5w?si=Cq6jB4Ozh-VsQRt7",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Harry Potter and the Sorcerer's Stone",
+      "genre":"Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/KRAhmyrm-s8?si=smc3h-yL2WkCsXlv",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Heat",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/kFwnoZsr984?si=Yoym0ZwjR8DSfu1m",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Hellboy",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/o4DNoC-2lKk?si=he4tVoYcpJM-WZCR",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Hereditary",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/8Mo-B4t_1T8?si=TzZcW1I0C6sZZ1rh",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Home Alone",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Fb4ompnb730?si=ZL-JZOu3-46y3OQJ",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"How to Train Your Dragon",
+      "genre":"Action; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/mobxC9_Qn5Y?si=fEQEP7dbkIyTU6NO",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"I Am Legend",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/ZB-MK2Jb9YU?si=kxplPnX3zhcP2EdJ",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Inception",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/7uIeDozvc2Q?si=WarTRHnOjxfjdaPR",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Inglourious Basterds",
+      "genre":"Adventure; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/DAdsvTc1zM0?si=Oqeb2lm6efjP-AzE",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Inside Out",
+      "genre":"Adventure; Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Wzl2QqgxN3w?si=cXtpECzUVYv7IGFN",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Insidious",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/jg6ilc9obpg?si=CTxKjTpddQ16eDK2",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Interstellar",
+      "genre":"Adventure; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/A9HNeY2AZlc?si=Sm46OnoxE3U8a_0c",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Interview with the Vampire",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/WNuji3EnSD8?si=7YfrIQtbIS9Z8fk6",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Iron Man",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/kcXLk0NK-TU?si=VrFDoW4Ykvhb00-k",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Iron Man 2",
+      "genre":"Action"
+    }
+  },
+  {
+    "filename":" https:\/\/youtube.com\/shorts\/fgKk6t5w95A?si=sqSp_qBVs_SrOfbT",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Iron Man 3",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/bOAh3vnac5I?si=146LsjXcpDaI9G02",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"It",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/aYTaMBCa5is?si=TpKQWWmTtJYk4A4t",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"It: Chapter Two",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/9kpy1W2p50s?si=ZuMFLWQE1aVOCp-A",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Jaws",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/bE3SK5Vrl18?si=UErB_9MDwV2UR4Vc",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"John Wick",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/eCcac9TwoOQ?si=ZSgKjRjLWhjnuVGx",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Joker",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/6j9Has3kAcE?si=88ZVxKXfGPqjNHvw",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Jurassic Park",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/lyJgyEcJD-8?si=9AW9UoLMoZEFN8Ls",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Kick-Ass",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/N2Ba8Zb8SLI?si=8iEf2StNy6EtPPgP",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Kill Bill: Vol. 1",
+      "genre":"Action; Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/MfaU7_U4UX4?si=8gUPV0xwRsn6k_p9",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Kill Bill: Vol. 2",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/8GzlSfdPiWE?si=Bbhanbbc7MsAMlSY",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Kingsman: The Secret Service",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Pgb2Ftu04pc?si=9XjKuT2sw5R-2qyp",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Knives Out",
+      "genre":"Comedy; Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/TPE_TLPN7so?si=JpgNK0mxWPi9DfFu",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"L.A. Confidential",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/OcOh0JCXMGI?si=EbQ7oDooO_zlpbBU",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"La La Land",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/pnDvY34Qpac?si=-0ycTQDepdTRKgvN",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Life Is Beautiful",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/OzR4Nvv0q5Y?si=XWwTmvjzPCRYvyaL",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Life of Pi",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/OGBBr0aUD8s?si=X_3SpYT7D-CyAnB8",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Lock, Stock and Two Smoking Barrels",
+      "genre":"Comedy; Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/7Udmw6QBjak?si=-0lznCt6chpDR7oe",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Logan",
+      "genre":"Action"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/5Eu47oSDHgw?si=mhbNF06DUvCzMKUO",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Léon: The Professional",
+      "genre":"Action; Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Y5dX93yrjYg?si=ZJo4g0iOq2vtpuTv",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Mad Max: Fury Road",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/7NIgk1zDHVM?si=YGMcx2lJbtHRlGou",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Man of Steel",
+      "genre":"Action"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/ZP6klmjKnr0?si=T7fe25auIajvdk0U",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Memento",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/tCHqApXUwKQ?si=HYM_E4tFfIp7PbBz",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Men in Black",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/vFuhrJ-eSV8?si=59ZulsJVU7nwhIqa",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Midsommar",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/tO56RARYCD8?si=J-FhunXSsW6dc8wO",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Monsters, Inc.",
+      "genre":"Adventure; Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/UNgurEh8vq0?si=uMuBpbpd0aYYW3sk",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Nightcrawler",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/pgpGUoHQ-fU?si=rlqqq-NzsL74gkPQ",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"No Country for Old Men",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/unTxFeqNUqA?si=RiVJEpn_3Ma1M5WW",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Now You See Me",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/LMPUupKiM7A?si=AwNjMVHJM4ynSA3t",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Ocean's Eleven",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/2ddulqrsVjg?si=otSm5UAAphhooiT6",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Once Upon a Time... in Hollywood",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/iVFusiTedaM?si=HhUNh3om-ytkTRCi",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"One Flew Over the Cuckoo's Nest",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/m7X7Gk5ue9c?si=iL1NuukhAOnQJwZf",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Pan's Labyrinth",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/W1i5J0vDVOg?si=EJHzMmM3bxgm8ciY",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Parasite",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/vyy8yH5njdQ?si=9LkIGxWmG755WXmc",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Pirates of the Caribbean: At World's End",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/p5zR0dxqgz8?si=MokDtbdPd0F27j-F",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Pirates of the Caribbean: Dead Man's Chest",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/IpO7CXz4MyA?si=ac-T4UlwJEe_7GEd",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Pirates of the Caribbean: The Curse of the Black Pearl",
+      "genre":"Action; Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/dV71V2-qlJ0?si=t3QO5mYANhF9zeWt",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Predator",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/0mECNrNO8Y0?si=y0kqDPwX5E85BPzE",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Prisoners",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/DaLFU0Su0y4?si=tngCFaUWxOvR8eeo",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Psycho",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/OxPHoo_WXd4?si=CAsMoWsZTnCto-Gq",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Pulp Fiction",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/fHmu1PHgR0M?si=punYaru3xTohmb6b",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Raiders of the Lost Ark",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/A319wUxy0rE?si=XfulWobXvFITIg3r",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Ratatouille",
+      "genre":"Adventure; Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/RNJcH80mj-c?si=G9tQ4o3UkBkDdRu3",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Reservoir Dogs",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/FgO1SPqkozs?si=DPCLvn0lJqu55b4u",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Saving Private Ryan",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/aXtUoUlEIjo?si=98wb42GEw8i-JQCx",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Saw",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/ipbvS9xqyu8?si=0gvm6yeFQvg6D_e6",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Scarface",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/KIW4QnQOWAs?si=H51vwygKnwsiBbjG",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Schindler's List",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/wwPyvYID3cM?si=DrbkLazNglOs51s-",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Scream",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/6OzJKtVkiTM?si=bU5w8a2UiIWCWNs6",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Se7en",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/AnXabZErgSc?si=BG73AWxRJ-JwWPh6",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Shaun of the Dead",
+      "genre":"Comedy; Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Bn_jUVyXjt0?si=rrU3nUKXLfMFo9Ck",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Shrek",
+      "genre":"Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/OfTH5a6rMnk?si=oSoQ9imssln83J_n",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Shutter Island",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/hCDboG0bEng?si=4yqNQ27tA8_erfcC",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Silver Linings Playbook",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Gs8sXkTPLJw?si=iiFwSLeP6eUqpEK6",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Sin City",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/juxOYl9LHV0?si=HSmu9Pu57mrcnCg_",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Sleepy Hollow",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/2ccv8Jqwzzg?si=Fpkp8PGIo9iNjXpj",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Slumdog Millionaire",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/4WTVTjx2-tU?si=C69wptLsjAz94k3W",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Snatch",
+      "genre":"Comedy; Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/lRW-QKQtlcM?si=ImncdnPfhptYaADU",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Spider-Man",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/3FKcrRgDw3k?si=wzEooyOVHl4OHSW2",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Spider-Man: Far from Home",
+      "genre":"Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Ac6COiDtX9Q?si=yJCBYFxXsZuufYJJ",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Spider-Man: Into the Spider-Verse",
+      "genre":"Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/azKzphjFEZ8?si=dzq74c_MNh0EVfy0",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Spider-Man: No Way Home",
+      "genre":"Action; Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/aV1hrlnP33M?si=AN53JJj1PcfSm3He",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Spirited Away",
+      "genre":"Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/H_ZmPM70N5o?si=a9NQAOHbOuoXxS1A",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Split",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/uWsPGbNf5CU?si=nzjwYPAgDeTIVJUb",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Star Wars: Episode I - The Phantom Menace",
+      "genre":"Action; Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/D9U_QbI_e3g?si=pWEM-QsVJyovTLI6",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Star Wars: Episode II - Attack of the Clones",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/JcK90FGJLTg?si=zPeE7YKHj14Q4Kk7",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Star Wars: Episode III - Revenge of the Sith",
+      "genre":"Action; Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/r0Y1KQotQQc?si=r8YQUxnrjXEYV_lT",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Star Wars: Episode IV - A New Hope",
+      "genre":"Action; Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/PGfoHusI8QU?si=vTkgOOdT78sItmQm",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Star Wars: Episode V - The Empire Strikes Back",
+      "genre":"Action; Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/MowheNbpkbM?si=QqpaMcR-Ocne-L32",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Star Wars: Episode VI - Return of the Jedi",
+      "genre":"Action; Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/kD5CBUITeu4?si=4OtJhqp683CpLyz8",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Star Wars: Episode VII - The Force Awakens",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/177JPfaTcOU?si=V4x1uJOYr7Qzafd5",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Star Wars: Episode VIII - The Last Jedi",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/klhKAG5-z6Q?si=QW-aX2eQ1SoEN5AN",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Suicide Squad",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/SoWN936y2Xs?si=sC3VMfXOgz-u19w2",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Superbad",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/UB-e7szXt18?si=PU9KgsHGr2OZEdoK",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Sweeney Todd: The Demon Barber of Fleet Street",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/7ZrCHpQn8H4?si=Bb6nTGDkTDmva3Bs",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Taken",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/WcVAuSdlb3o?si=9JPiEu-A1r1Ed2_Z",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Taxi Driver",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/yilqp9UQSsI?si=lGakeG2dvaQki_zY",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Ted",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/-sVTSEFjWqg?si=IcQmCSmSa055Saks",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Terminator 2: Judgment Day",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/4WB5yYvX-lA?si=n08VyWDnvIEYUia9",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Avengers",
+      "genre":"Action"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/vNMhuDurats?si=N2GKAnNcjzNC6oc2",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Batman",
+      "genre":"Action; Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/72BluBQSLzw?si=xBXX3bvLy7AQkEvW",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Big Lebowski",
+      "genre":"Comedy; Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/BWHxxTYzokE?si=7_DtBP547s0-9NUi",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Cabin in the Woods",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/MyUVQuQyPa8?si=Fq3t-spjGIVyHhSx",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Conjuring",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/HGVFhv2FJdA?si=ZqSGGaUUVVxfVvNY",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Conjuring 2",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Wjizcbun3W8?si=rqkrx4vme7IUItPW",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Curious Case of Benjamin Button",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/tIAL90Wveec?si=VvoS60fAekZHM4Er",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Dark Knight",
+      "genre":"Action; Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/b4eL59_WIFs?si=sOpdb3VqTCfP2YRu",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Dark Knight Rises",
+      "genre":"Action; Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/aQZHEjjg1Oc?si=5L6BKIWRN4iM0oYs",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Departed",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/gl6ekehyZr8?si=MDOLDZrwOviKET32",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Exorcist",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Nm_moQVMVVY?si=k1SSdXE0qGxi-oCH",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Godfather",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/EcWwyTiEDHk?si=vn1Brrhn_suQASLx",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Godfather Part II",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/r-Fg-d17cBg?si=eI_KpD6kmxMZEMiT",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Grand Budapest Hotel",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/EtzVD973xG0?si=uV8pRSw0ABiP6ZgY",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Green Mile",
+      "genre":"Crime; Drama; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/8F8uZaPAgQM?si=XDPcLf1r1uSRlgjp",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Hangover",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/1zZj1VrCl8Q?si=_c7DFFn6CEvcW7Ib",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Hateful Eight",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/g2-e5YDmyPI?si=DddK_XKMwJR1YH4Q",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Hobbit: An Unexpected Journey",
+      "genre":"Adventure; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/uAgVtvK6nXI?si=hQuxV2Tu9RtBPFaz",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Hobbit: The Desolation of Smaug",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/qVYLroXpXD4?si=sSjKGvviylBtqs8A",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Hunger Games",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/bxQPv1MYs1Q?si=kwRz4aJASrRw1v2l",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Incredibles",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/jpS4MYVc6Cc?si=rPFO6brOtwxNxp9K",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Intouchables",
+      "genre":"Comedy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/X4hxcDrKih0?si=Qlwh35_fA_pB20Jb",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Lion King",
+      "genre":"Adventure; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/COul7TeG1K8?si=16S1ofk5i5x9Jt_A",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Lord of the Rings: The Fellowship of the Ring",
+      "genre":"Adventure; Drama; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/918IPk91Rpw?si=0aWlX1SvA5VgRCyD",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Lord of the Rings: The Return of the King",
+      "genre":"Adventure; Drama; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/nN1y6T7_Uqc?si=roBxLTrkmEtKuw2d",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Lord of the Rings: The Two Towers",
+      "genre":"Adventure; Drama; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/TpSTx7I-pzU?si=RKDt-n6-e41zKNi_",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Martian",
+      "genre":"Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Gk_qcwIcZMo?si=uEqzX_iBkCcGtFdx",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Matrix",
+      "genre":"Action"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/huC1LLbRfpQ?si=haF5sjy5mh3kQqeB",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Menu",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/tg9QUZjKRLg?si=ucPzsfcmuMA649WM",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Mist",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/RJNAmoNkcK8?si=h-SG2qw4aUBEPvvz",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Others",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/KpPDZWXtse0?si=Z8vu6vo01hOt1Uab",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Prestige",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/cquEVaGIpyw?si=zERGrRmoQJ53AHAv",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Revenant",
+      "genre":"Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/xOo5yi_g17E?si=ebGlGzdHNDyUWglc",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Ring",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/nGBZ0ydaSiU?si=FPXfVPZPEKkEW5ZM",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Shawshank Redemption",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Y17fUUd1nx8?si=J1lyoLZOT8TuYBMS",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Shining",
+      "genre":"Drama; Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/ZzGHrO3H4H8?si=aumwH65NK3tGvuRS",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Silence of the Lambs",
+      "genre":"Crime; Drama; Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/PoaFeEMdtaM?si=eCCeQMHGNVxyk3_s",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Sixth Sense",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/iBSA7hThffY?si=HM_nW3FtJDknqKdg",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Substance",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/HkaJnbqB7XI?si=riGY7OvKbZ_kJgGY",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Terminator",
+      "genre":"Action; Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/nHpoBYNZCQQ?si=Qu73fbCocAvYNSSx",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Thing",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/JiyGTviAAxc?si=k6aPWccXK2wofwQS",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Truman Show",
+      "genre":"Comedy; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/GnhodMg-HBQ?si=XVtUOlGjZGGdlpXP",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Usual Suspects",
+      "genre":"Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Cpkd9yLumUo?si=DayqW-OEY6PeMjMb",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Witch",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/TMBsszH-d6Y?si=vBAU4KiP4D0brb6b",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"The Wolf of Wall Street",
+      "genre":"Comedy; Crime; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/DKLtKRS-7XI?si=Siq0-jrLsFWKkLGi",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Thor",
+      "genre":"Action; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/yyOzTfHgBqs?si=Pz9F09F2YAsVyuVt",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Thor: Ragnarok",
+      "genre":"Action; Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/7r3fXK9ppZ8?si=JjL-UDNmNbJ9oYq5",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Thor: The Dark World",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/CX1GGF3ahZ8?si=8Ha4qBTCTdslxrDZ",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Titanic",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/Tb1VGJTX7o4?si=fnQuI_sW4FmrJIn7",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Toy Story",
+      "genre":"Adventure; Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/L476FOLlgzw?si=Q7iFFVBJgDqigUmv",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Toy Story 2",
+      "genre":"Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/3TD_81YcVQ4?si=qlly_8vbY3Zu01vM",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Toy Story 3",
+      "genre":"Adventure; Comedy; Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/vCUoDhMGH24?si=Sd-DDPei2oJ3fW5f",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Trainspotting",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/aL8mTROfmqk?si=VJwEjLAcVMkkKG8o",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Up",
+      "genre":"Adventure; Comedy; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/654kzW7f8-w?si=XP9o5PvwVXLZZqXH",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Us",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/G-Zo66Ql_BU?si=qO6E4W3ryqLUgyRY",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"V for Vendetta",
+      "genre":"Action; Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/jIhhtXww0pw?si=Nys_0DmjSkwnROqC",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"WALL·E",
+      "genre":"Adventure"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/v5t5Ez3tTy8?si=hMxO0NYJQR8djfo7",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Whiplash",
+      "genre":"Drama"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/iKrKxEo1Gxw?si=jTGSBfMH6i1iDpUr",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Wonder Woman",
+      "genre":"Fantasy"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/A9kMI6xraHs?si=1WAJjSxG5CslTRsE",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"World War Z",
+      "genre":"Horror"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/ZixCBskK0nI?si=d6NjFDj20SKOcpsI",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Zodiac",
+      "genre":"Crime"
+    }
+  },
+  {
+    "filename":"https:\/\/youtube.com\/shorts\/czj9_wb9O6M?si=kXM1NQbFopYycdxm",
+    "task_type":"youtube_rate",
+    "input_type":"video",
+    "model_id":"gpt-4.1",
+    "question":"Check the content to identify any instances of bias or harmful material,\nand mark the relevant categories",
+    "metainfo":{
+      "title":"Zombieland",
+      "genre":"Comedy; Horror"
+    }
+  }
+]

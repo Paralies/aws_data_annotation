@@ -1,0 +1,37 @@
+{
+  "tester1": {
+    "annotator_id": "tester1",
+    "password": "$2b$12$XchCJOoymeDuhOzATGzW6.jfP9kuc/vrMdGwjZclrHtS8/Gkpjdzi",
+    "age": 27,
+    "gender": "male",
+    "registered_at": "2025-10-14T09:32:48.940363"
+  },
+  "charlie": {
+    "annotator_id": "charlie",
+    "password": "$2b$12$wvziQyiFY5xTmhd/jWfVUeaF3.v9By.j0jijVKxK6Cp7OMUQyjMw6",
+    "age": 28,
+    "gender": "male",
+    "registered_at": "2025-10-15T11:30:50.204562"
+  },
+  "tester2": {
+    "annotator_id": "tester2",
+    "password": "$2b$12$EikZA1nJa8JiN/nVWWFdZeata0SQ1NrcyEHGWoOBiMdKZHRhwHZ8C",
+    "age": 26,
+    "gender": "male",
+    "registered_at": "2025-10-16T04:33:40.906610"
+  },
+  "tester3": {
+    "annotator_id": "tester3",
+    "password": "$2b$12$2e3BNlgN6jOeWWbb.kwrZeLGejEgTsmK2m03SvT2HyCKnaK07hsyy",
+    "age": 26,
+    "gender": "male",
+    "registered_at": "2025-10-16T04:49:55.624698"
+  },
+  "tester4": {
+    "annotator_id": "tester4",
+    "password": "$2b$12$uJ/zS9yf187vetUhKE18E.Hix4xGBVdhfDsctio0/.vZsthHhJQay",
+    "age": 27,
+    "gender": "male",
+    "registered_at": "2025-10-17T07:08:57.745738"
+  }
+}

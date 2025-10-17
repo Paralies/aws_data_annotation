@@ -1,0 +1,74 @@
+[
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_1",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester4",
+    "session_id": "session_1760684954556",
+    "time_spent": 4,
+    "timestamp": "2025-10-17T07:09:18.180460",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_2",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester4",
+    "session_id": "session_1760684954556",
+    "time_spent": 2,
+    "timestamp": "2025-10-17T07:09:20.704248",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_3",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester4",
+    "session_id": "session_1760684954556",
+    "time_spent": 58,
+    "timestamp": "2025-10-17T07:10:18.552300",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_4",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester4",
+    "session_id": "session_1760684954556",
+    "time_spent": 1,
+    "timestamp": "2025-10-17T07:10:19.904814",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_5",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester4",
+    "session_id": "session_1760684954556",
+    "time_spent": 1,
+    "timestamp": "2025-10-17T07:10:21.113410",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_6",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester4",
+    "session_id": "session_1760684954556",
+    "time_spent": 1,
+    "timestamp": "2025-10-17T07:10:22.391252",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  }
+]

@@ -1,0 +1,236 @@
+content_id,answer,annotator_id,session_id,time_spent,timestamp,model_id,input_type
+gpt-4.1_video_youtube_rate_1,['Violence'],tester1,session_1760434389382,4,2025-10-14T09:33:13.044835,gpt-4.1,video
+gpt-4.1_video_youtube_rate_2,['Language'],tester1,session_1760434389382,2,2025-10-14T09:33:14.627328,gpt-4.1,video
+gpt-4.1_video_youtube_rate_3,['Drugs'],tester1,session_1760434389382,2,2025-10-14T09:33:16.299757,gpt-4.1,video
+gpt-4.1_video_youtube_rate_4,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:33:17.685469,gpt-4.1,video
+gpt-4.1_video_youtube_rate_5,"['Sex and Nudity', 'Violence']",tester1,session_1760434389382,2,2025-10-14T09:33:19.297120,gpt-4.1,video
+gpt-4.1_video_youtube_rate_6,"['Sex and Nudity', 'Language']",tester1,session_1760434389382,2,2025-10-14T09:33:21.001486,gpt-4.1,video
+gpt-4.1_video_youtube_rate_7,"['Sex and Nudity', 'Language']",tester1,session_1760434389382,4,2025-10-14T09:33:25.161852,gpt-4.1,video
+gpt-4.1_video_youtube_rate_8,"['Sex and Nudity', 'Drugs']",tester1,session_1760434389382,2,2025-10-14T09:33:27.182653,gpt-4.1,video
+gpt-4.1_video_youtube_rate_9,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:33:28.482874,gpt-4.1,video
+gpt-4.1_video_youtube_rate_10,"['Language', 'Violence']",tester1,session_1760434389382,3,2025-10-14T09:33:31.209401,gpt-4.1,video
+gpt-4.1_video_youtube_rate_11,"['Violence', 'Drugs']",tester1,session_1760434389382,2,2025-10-14T09:33:33.060320,gpt-4.1,video
+gpt-4.1_video_youtube_rate_12,"['Language', 'Drugs']",tester1,session_1760434389382,2,2025-10-14T09:33:35.120550,gpt-4.1,video
+gpt-4.1_video_youtube_rate_13,['None'],tester1,session_1760434389382,1,2025-10-14T09:33:36.547961,gpt-4.1,video
+gpt-4.1_video_youtube_rate_14,['None'],tester1,session_1760434389382,4,2025-10-14T09:33:40.712807,gpt-4.1,video
+gpt-4.1_video_youtube_rate_15,"['Bias', 'Language']",tester1,session_1760434389382,4,2025-10-14T09:33:44.649362,gpt-4.1,video
+gpt-4.1_video_youtube_rate_15_bias,"Nationality,Sexual Identity",tester1,session_1760434389382,2,2025-10-14T09:33:47.127779,,
+gpt-4.1_video_youtube_rate_16,['Violence'],tester1,session_1760434389382,2,2025-10-14T09:33:49.070754,gpt-4.1,video
+gpt-4.1_video_youtube_rate_17,['Bias'],tester1,session_1760434389382,2,2025-10-14T09:33:50.683037,gpt-4.1,video
+gpt-4.1_video_youtube_rate_17_bias,"Nationality,Gender",tester1,session_1760434389382,2,2025-10-14T09:33:52.246967,,
+gpt-4.1_video_youtube_rate_18,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:33:53.643647,gpt-4.1,video
+gpt-4.1_video_youtube_rate_19,['Sex and Nudity'],tester1,session_1760434389382,23,2025-10-14T09:34:17.168848,gpt-4.1,video
+gpt-4.1_video_youtube_rate_20,['Violence'],tester1,session_1760434389382,2,2025-10-14T09:34:19.291826,gpt-4.1,video
+gpt-4.1_video_youtube_rate_21,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:34:20.708750,gpt-4.1,video
+gpt-4.1_video_youtube_rate_22,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:34:22.124526,gpt-4.1,video
+gpt-4.1_video_youtube_rate_23,"['Violence', 'Language']",tester1,session_1760434389382,2,2025-10-14T09:34:23.775632,gpt-4.1,video
+gpt-4.1_video_youtube_rate_24,"['Drugs', 'Violence']",tester1,session_1760434389382,1,2025-10-14T09:34:25.225234,gpt-4.1,video
+gpt-4.1_video_youtube_rate_25,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:34:26.347138,gpt-4.1,video
+gpt-4.1_video_youtube_rate_26,['Language'],tester1,session_1760434389382,1,2025-10-14T09:34:27.579178,gpt-4.1,video
+gpt-4.1_video_youtube_rate_27,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:34:28.695710,gpt-4.1,video
+gpt-4.1_video_youtube_rate_28,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:34:29.940788,gpt-4.1,video
+gpt-4.1_video_youtube_rate_29,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:34:31.351657,gpt-4.1,video
+gpt-4.1_video_youtube_rate_30,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:34:32.443072,gpt-4.1,video
+gpt-4.1_video_youtube_rate_31,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:34:33.666621,gpt-4.1,video
+gpt-4.1_video_youtube_rate_32,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:34:34.712137,gpt-4.1,video
+gpt-4.1_video_youtube_rate_33,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:34:35.743120,gpt-4.1,video
+gpt-4.1_video_youtube_rate_34,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:34:36.751229,gpt-4.1,video
+gpt-4.1_video_youtube_rate_35,['Language'],tester1,session_1760434389382,1,2025-10-14T09:34:37.742792,gpt-4.1,video
+gpt-4.1_video_youtube_rate_36,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:34:38.803210,gpt-4.1,video
+gpt-4.1_video_youtube_rate_37,"['Sex and Nudity', 'Violence']",tester1,session_1760434389382,1,2025-10-14T09:34:40.189088,gpt-4.1,video
+gpt-4.1_video_youtube_rate_38,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:34:41.204842,gpt-4.1,video
+gpt-4.1_video_youtube_rate_39,['None'],tester1,session_1760434389382,1,2025-10-14T09:34:41.986463,gpt-4.1,video
+gpt-4.1_video_youtube_rate_40,['None'],tester1,session_1760434389382,1,2025-10-14T09:34:42.979188,gpt-4.1,video
+gpt-4.1_video_youtube_rate_41,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:34:44.063204,gpt-4.1,video
+gpt-4.1_video_youtube_rate_42,['Language'],tester1,session_1760434389382,1,2025-10-14T09:34:45.023158,gpt-4.1,video
+gpt-4.1_video_youtube_rate_43,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:34:46.051409,gpt-4.1,video
+gpt-4.1_video_youtube_rate_44,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:34:46.999423,gpt-4.1,video
+gpt-4.1_video_youtube_rate_45,['Language'],tester1,session_1760434389382,1,2025-10-14T09:34:47.913197,gpt-4.1,video
+gpt-4.1_video_youtube_rate_46,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:34:48.826595,gpt-4.1,video
+gpt-4.1_video_youtube_rate_47,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:34:49.709014,gpt-4.1,video
+gpt-4.1_video_youtube_rate_48,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:34:51.003194,gpt-4.1,video
+gpt-4.1_video_youtube_rate_49,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:34:52.048521,gpt-4.1,video
+gpt-4.1_video_youtube_rate_50,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:34:53.249623,gpt-4.1,video
+gpt-4.1_video_youtube_rate_51,['Bias'],tester1,session_1760434389382,1,2025-10-14T09:34:54.442557,gpt-4.1,video
+gpt-4.1_video_youtube_rate_51_bias,"Nationality,Religion",tester1,session_1760434389382,2,2025-10-14T09:34:56.123401,,
+gpt-4.1_video_youtube_rate_52,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:34:57.246856,gpt-4.1,video
+gpt-4.1_video_youtube_rate_53,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:34:58.236996,gpt-4.1,video
+gpt-4.1_video_youtube_rate_54,['Language'],tester1,session_1760434389382,1,2025-10-14T09:34:59.237548,gpt-4.1,video
+gpt-4.1_video_youtube_rate_55,['None'],tester1,session_1760434389382,1,2025-10-14T09:35:00.229176,gpt-4.1,video
+gpt-4.1_video_youtube_rate_56,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:01.188726,gpt-4.1,video
+gpt-4.1_video_youtube_rate_57,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:02.078781,gpt-4.1,video
+gpt-4.1_video_youtube_rate_58,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:03.095421,gpt-4.1,video
+gpt-4.1_video_youtube_rate_59,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:04.118092,gpt-4.1,video
+gpt-4.1_video_youtube_rate_60,['Language'],tester1,session_1760434389382,1,2025-10-14T09:35:05.054428,gpt-4.1,video
+gpt-4.1_video_youtube_rate_61,['Language'],tester1,session_1760434389382,1,2025-10-14T09:35:06.502994,gpt-4.1,video
+gpt-4.1_video_youtube_rate_62,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:35:07.764631,gpt-4.1,video
+gpt-4.1_video_youtube_rate_63,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:08.671526,gpt-4.1,video
+gpt-4.1_video_youtube_rate_64,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:35:09.724154,gpt-4.1,video
+gpt-4.1_video_youtube_rate_65,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:10.787085,gpt-4.1,video
+gpt-4.1_video_youtube_rate_66,['Language'],tester1,session_1760434389382,1,2025-10-14T09:35:11.800324,gpt-4.1,video
+gpt-4.1_video_youtube_rate_67,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:12.629130,gpt-4.1,video
+gpt-4.1_video_youtube_rate_68,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:35:13.364755,gpt-4.1,video
+gpt-4.1_video_youtube_rate_69,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:14.024866,gpt-4.1,video
+gpt-4.1_video_youtube_rate_70,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:35:15.179193,gpt-4.1,video
+gpt-4.1_video_youtube_rate_71,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:16.316938,gpt-4.1,video
+gpt-4.1_video_youtube_rate_72,['Language'],tester1,session_1760434389382,1,2025-10-14T09:35:17.309144,gpt-4.1,video
+gpt-4.1_video_youtube_rate_73,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:35:18.415425,gpt-4.1,video
+gpt-4.1_video_youtube_rate_74,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:19.266824,gpt-4.1,video
+gpt-4.1_video_youtube_rate_75,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:35:20.663411,gpt-4.1,video
+gpt-4.1_video_youtube_rate_76,['Violence'],tester1,session_1760434389382,2,2025-10-14T09:35:22.234994,gpt-4.1,video
+gpt-4.1_video_youtube_rate_77,['Sex and Nudity'],tester1,session_1760434389382,2,2025-10-14T09:35:23.931603,gpt-4.1,video
+gpt-4.1_video_youtube_rate_78,['Language'],tester1,session_1760434389382,1,2025-10-14T09:35:25.023010,gpt-4.1,video
+gpt-4.1_video_youtube_rate_79,['Violence'],tester1,session_1760434389382,2,2025-10-14T09:35:26.797422,gpt-4.1,video
+gpt-4.1_video_youtube_rate_80,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:35:27.865570,gpt-4.1,video
+gpt-4.1_video_youtube_rate_81,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:28.949028,gpt-4.1,video
+gpt-4.1_video_youtube_rate_82,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:35:30.043024,gpt-4.1,video
+gpt-4.1_video_youtube_rate_83,['Language'],tester1,session_1760434389382,2,2025-10-14T09:35:32.226987,gpt-4.1,video
+gpt-4.1_video_youtube_rate_84,['Violence'],tester1,session_1760434389382,2,2025-10-14T09:35:34.511251,gpt-4.1,video
+gpt-4.1_video_youtube_rate_85,['Sex and Nudity'],tester1,session_1760434389382,2,2025-10-14T09:35:36.541313,gpt-4.1,video
+gpt-4.1_video_youtube_rate_86,['Sex and Nudity'],tester1,session_1760434389382,2,2025-10-14T09:35:38.579650,gpt-4.1,video
+gpt-4.1_video_youtube_rate_87,['Drugs'],tester1,session_1760434389382,2,2025-10-14T09:35:40.205785,gpt-4.1,video
+gpt-4.1_video_youtube_rate_88,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:41.180624,gpt-4.1,video
+gpt-4.1_video_youtube_rate_89,['Sex and Nudity'],tester1,session_1760434389382,2,2025-10-14T09:35:43.707630,gpt-4.1,video
+gpt-4.1_video_youtube_rate_90,['Drugs'],tester1,session_1760434389382,2,2025-10-14T09:35:45.363152,gpt-4.1,video
+gpt-4.1_video_youtube_rate_91,['Violence'],tester1,session_1760434389382,2,2025-10-14T09:35:47.385311,gpt-4.1,video
+gpt-4.1_video_youtube_rate_92,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:35:48.352939,gpt-4.1,video
+gpt-4.1_video_youtube_rate_93,['Language'],tester1,session_1760434389382,1,2025-10-14T09:35:49.283275,gpt-4.1,video
+gpt-4.1_video_youtube_rate_94,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:50.420550,gpt-4.1,video
+gpt-4.1_video_youtube_rate_95,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:35:51.768616,gpt-4.1,video
+gpt-4.1_video_youtube_rate_96,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:35:53.125104,gpt-4.1,video
+gpt-4.1_video_youtube_rate_97,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:35:54.231791,gpt-4.1,video
+gpt-4.1_video_youtube_rate_98,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:35:55.247065,gpt-4.1,video
+gpt-4.1_video_youtube_rate_99,['Language'],tester1,session_1760434389382,1,2025-10-14T09:35:56.244945,gpt-4.1,video
+gpt-4.1_video_youtube_rate_100,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:35:57.260730,gpt-4.1,video
+gpt-4.1_video_youtube_rate_101,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:35:58.313231,gpt-4.1,video
+gpt-4.1_video_youtube_rate_102,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:35:59.367419,gpt-4.1,video
+gpt-4.1_video_youtube_rate_103,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:36:00.553200,gpt-4.1,video
+gpt-4.1_video_youtube_rate_104,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:36:01.845174,gpt-4.1,video
+gpt-4.1_video_youtube_rate_105,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:36:03.047546,gpt-4.1,video
+gpt-4.1_video_youtube_rate_106,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:36:04.255415,gpt-4.1,video
+gpt-4.1_video_youtube_rate_107,['Language'],tester1,session_1760434389382,1,2025-10-14T09:36:05.371040,gpt-4.1,video
+gpt-4.1_video_youtube_rate_108,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:36:06.587119,gpt-4.1,video
+gpt-4.1_video_youtube_rate_109,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:36:07.741092,gpt-4.1,video
+gpt-4.1_video_youtube_rate_110,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:36:08.848744,gpt-4.1,video
+gpt-4.1_video_youtube_rate_111,['Language'],tester1,session_1760434389382,1,2025-10-14T09:36:09.941630,gpt-4.1,video
+gpt-4.1_video_youtube_rate_112,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:36:11.148407,gpt-4.1,video
+gpt-4.1_video_youtube_rate_113,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:36:12.489615,gpt-4.1,video
+gpt-4.1_video_youtube_rate_114,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:36:13.743156,gpt-4.1,video
+gpt-4.1_video_youtube_rate_115,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:36:14.875431,gpt-4.1,video
+gpt-4.1_video_youtube_rate_116,['Language'],tester1,session_1760434389382,1,2025-10-14T09:36:15.974730,gpt-4.1,video
+gpt-4.1_video_youtube_rate_117,['Sex and Nudity'],tester1,session_1760434389382,5,2025-10-14T09:36:20.775973,gpt-4.1,video
+gpt-4.1_video_youtube_rate_118,['Drugs'],tester1,session_1760434389382,3,2025-10-14T09:36:24.146620,gpt-4.1,video
+gpt-4.1_video_youtube_rate_119,['Violence'],tester1,session_1760434389382,6,2025-10-14T09:36:29.700379,gpt-4.1,video
+gpt-4.1_video_youtube_rate_120,['Language'],tester1,session_1760434389382,2,2025-10-14T09:36:31.706934,gpt-4.1,video
+gpt-4.1_video_youtube_rate_121,['Sex and Nudity'],tester1,session_1760434389382,6,2025-10-14T09:36:37.856563,gpt-4.1,video
+gpt-4.1_video_youtube_rate_122,['Language'],tester1,session_1760434389382,2,2025-10-14T09:36:40.313082,gpt-4.1,video
+gpt-4.1_video_youtube_rate_123,['Drugs'],tester1,session_1760434389382,2,2025-10-14T09:36:42.025083,gpt-4.1,video
+gpt-4.1_video_youtube_rate_124,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:36:43.488415,gpt-4.1,video
+gpt-4.1_video_youtube_rate_125,['Language'],tester1,session_1760434389382,1,2025-10-14T09:36:44.435090,gpt-4.1,video
+gpt-4.1_video_youtube_rate_126,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:36:45.494896,gpt-4.1,video
+gpt-4.1_video_youtube_rate_127,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:36:46.578897,gpt-4.1,video
+gpt-4.1_video_youtube_rate_128,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:36:47.548645,gpt-4.1,video
+gpt-4.1_video_youtube_rate_129,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:36:48.524554,gpt-4.1,video
+gpt-4.1_video_youtube_rate_130,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:36:49.514972,gpt-4.1,video
+gpt-4.1_video_youtube_rate_131,['Language'],tester1,session_1760434389382,1,2025-10-14T09:36:51.040116,gpt-4.1,video
+gpt-4.1_video_youtube_rate_132,['Sex and Nudity'],tester1,session_1760434389382,4,2025-10-14T09:36:55.203674,gpt-4.1,video
+gpt-4.1_video_youtube_rate_133,['Drugs'],tester1,session_1760434389382,2,2025-10-14T09:36:56.960632,gpt-4.1,video
+gpt-4.1_video_youtube_rate_134,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:36:57.796217,gpt-4.1,video
+gpt-4.1_video_youtube_rate_135,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:36:58.859130,gpt-4.1,video
+gpt-4.1_video_youtube_rate_136,['Language'],tester1,session_1760434389382,1,2025-10-14T09:36:59.851073,gpt-4.1,video
+gpt-4.1_video_youtube_rate_137,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:37:00.972971,gpt-4.1,video
+gpt-4.1_video_youtube_rate_138,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:37:02.067540,gpt-4.1,video
+gpt-4.1_video_youtube_rate_139,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:37:03.382986,gpt-4.1,video
+gpt-4.1_video_youtube_rate_140,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:37:04.351373,gpt-4.1,video
+gpt-4.1_video_youtube_rate_141,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:37:05.558729,gpt-4.1,video
+gpt-4.1_video_youtube_rate_142,['Violence'],tester1,session_1760434389382,2,2025-10-14T09:37:07.566995,gpt-4.1,video
+gpt-4.1_video_youtube_rate_143,['None'],tester1,session_1760434389382,1,2025-10-14T09:37:08.549428,gpt-4.1,video
+gpt-4.1_video_youtube_rate_144,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:37:09.479089,gpt-4.1,video
+gpt-4.1_video_youtube_rate_145,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:37:10.338355,gpt-4.1,video
+gpt-4.1_video_youtube_rate_146,['Language'],tester1,session_1760434389382,1,2025-10-14T09:37:11.447455,gpt-4.1,video
+gpt-4.1_video_youtube_rate_147,"['Drugs', 'Violence']",tester1,session_1760434389382,2,2025-10-14T09:37:13.800901,gpt-4.1,video
+gpt-4.1_video_youtube_rate_148,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:37:14.908922,gpt-4.1,video
+gpt-4.1_video_youtube_rate_149,['Language'],tester1,session_1760434389382,1,2025-10-14T09:37:15.924362,gpt-4.1,video
+gpt-4.1_video_youtube_rate_150,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:37:16.831227,gpt-4.1,video
+gpt-4.1_video_youtube_rate_151,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:37:17.776124,gpt-4.1,video
+gpt-4.1_video_youtube_rate_152,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:37:18.813043,gpt-4.1,video
+gpt-4.1_video_youtube_rate_153,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:37:19.936992,gpt-4.1,video
+gpt-4.1_video_youtube_rate_154,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:37:20.974222,gpt-4.1,video
+gpt-4.1_video_youtube_rate_155,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:37:21.864561,gpt-4.1,video
+gpt-4.1_video_youtube_rate_156,['Language'],tester1,session_1760434389382,1,2025-10-14T09:37:22.873433,gpt-4.1,video
+gpt-4.1_video_youtube_rate_157,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:37:23.965469,gpt-4.1,video
+gpt-4.1_video_youtube_rate_158,['Sex and Nudity'],tester1,session_1760434389382,2,2025-10-14T09:37:25.692825,gpt-4.1,video
+gpt-4.1_video_youtube_rate_159,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:37:26.753433,gpt-4.1,video
+gpt-4.1_video_youtube_rate_160,"['Language', 'Drugs']",tester1,session_1760434389382,2,2025-10-14T09:37:28.875174,gpt-4.1,video
+gpt-4.1_video_youtube_rate_161,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:37:29.720835,gpt-4.1,video
+gpt-4.1_video_youtube_rate_162,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:37:30.587252,gpt-4.1,video
+gpt-4.1_video_youtube_rate_163,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:37:31.486048,gpt-4.1,video
+gpt-4.1_video_youtube_rate_164,['Language'],tester1,session_1760434389382,1,2025-10-14T09:37:32.422756,gpt-4.1,video
+gpt-4.1_video_youtube_rate_165,"['Violence', 'Language']",tester1,session_1760434389382,1,2025-10-14T09:37:33.886366,gpt-4.1,video
+gpt-4.1_video_youtube_rate_166,"['Sex and Nudity', 'Language']",tester1,session_1760434389382,2,2025-10-14T09:37:35.955406,gpt-4.1,video
+gpt-4.1_video_youtube_rate_167,"['Sex and Nudity', 'Language', 'Drugs', 'Bias']",tester1,session_1760434389382,3,2025-10-14T09:37:39.419304,gpt-4.1,video
+gpt-4.1_video_youtube_rate_167_bias,"Sexual Identity,Nationality",tester1,session_1760434389382,2,2025-10-14T09:37:41.524588,,
+gpt-4.1_video_youtube_rate_168,['Violence'],tester1,session_1760434389382,2,2025-10-14T09:37:43.159067,gpt-4.1,video
+gpt-4.1_video_youtube_rate_169,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:37:44.237795,gpt-4.1,video
+gpt-4.1_video_youtube_rate_170,['Language'],tester1,session_1760434389382,1,2025-10-14T09:37:45.229356,gpt-4.1,video
+gpt-4.1_video_youtube_rate_171,['Violence'],tester1,session_1760434389382,2,2025-10-14T09:37:46.887161,gpt-4.1,video
+gpt-4.1_video_youtube_rate_172,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:37:47.800861,gpt-4.1,video
+gpt-4.1_video_youtube_rate_173,['Drugs'],tester1,session_1760434389382,2,2025-10-14T09:37:49.698619,gpt-4.1,video
+gpt-4.1_video_youtube_rate_174,"['Bias', 'Violence']",tester1,session_1760434389382,4,2025-10-14T09:37:54.136842,gpt-4.1,video
+gpt-4.1_video_youtube_rate_174_bias,Sexual Identity,tester1,session_1760434389382,1,2025-10-14T09:37:55.531240,,
+gpt-4.1_video_youtube_rate_175,['Violence'],tester1,session_1760434389382,2,2025-10-14T09:37:57.221535,gpt-4.1,video
+gpt-4.1_video_youtube_rate_176,['Drugs'],tester1,session_1760434389382,1,2025-10-14T09:37:58.467042,gpt-4.1,video
+gpt-4.1_video_youtube_rate_177,['Sex and Nudity'],tester1,session_1760434389382,1,2025-10-14T09:37:59.521282,gpt-4.1,video
+gpt-4.1_video_youtube_rate_178,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:38:00.605152,gpt-4.1,video
+gpt-4.1_video_youtube_rate_179,['Language'],tester1,session_1760434389382,1,2025-10-14T09:38:01.783268,gpt-4.1,video
+gpt-4.1_video_youtube_rate_180,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:38:02.904409,gpt-4.1,video
+gpt-4.1_video_youtube_rate_181,"['Sex and Nudity', 'Violence', 'Language']",tester1,session_1760434389382,2,2025-10-14T09:38:05.360941,gpt-4.1,video
+gpt-4.1_video_youtube_rate_182,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:38:06.374742,gpt-4.1,video
+gpt-4.1_video_youtube_rate_183,['Drugs'],tester1,session_1760434389382,2,2025-10-14T09:38:08.024973,gpt-4.1,video
+gpt-4.1_video_youtube_rate_184,['Violence'],tester1,session_1760434389382,1,2025-10-14T09:38:09.048498,gpt-4.1,video
+gpt-4.1_video_youtube_rate_185,['Sex and Nudity'],tester1,session_1760434389382,2,2025-10-14T09:38:10.868949,gpt-4.1,video
+gpt-4.1_video_youtube_rate_186,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:11.672805,gpt-4.1,video
+gpt-4.1_video_youtube_rate_187,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:12.673339,gpt-4.1,video
+gpt-4.1_video_youtube_rate_188,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:13.686516,gpt-4.1,video
+gpt-4.1_video_youtube_rate_189,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:14.625044,gpt-4.1,video
+gpt-4.1_video_youtube_rate_190,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:15.632574,gpt-4.1,video
+gpt-4.1_video_youtube_rate_191,['None'],tester1,session_1760434389382,4,2025-10-14T09:38:20.163398,gpt-4.1,video
+gpt-4.1_video_youtube_rate_192,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:21.216347,gpt-4.1,video
+gpt-4.1_video_youtube_rate_193,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:22.263242,gpt-4.1,video
+gpt-4.1_video_youtube_rate_194,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:23.185399,gpt-4.1,video
+gpt-4.1_video_youtube_rate_195,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:24.338691,gpt-4.1,video
+gpt-4.1_video_youtube_rate_196,['None'],tester1,session_1760434389382,2,2025-10-14T09:38:25.940823,gpt-4.1,video
+gpt-4.1_video_youtube_rate_197,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:27.173011,gpt-4.1,video
+gpt-4.1_video_youtube_rate_198,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:28.235640,gpt-4.1,video
+gpt-4.1_video_youtube_rate_199,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:29.341982,gpt-4.1,video
+gpt-4.1_video_youtube_rate_200,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:30.373038,gpt-4.1,video
+gpt-4.1_video_youtube_rate_201,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:31.526873,gpt-4.1,video
+gpt-4.1_video_youtube_rate_202,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:32.640984,gpt-4.1,video
+gpt-4.1_video_youtube_rate_203,['None'],tester1,session_1760434389382,2,2025-10-14T09:38:34.306846,gpt-4.1,video
+gpt-4.1_video_youtube_rate_204,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:35.228840,gpt-4.1,video
+gpt-4.1_video_youtube_rate_205,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:36.320589,gpt-4.1,video
+gpt-4.1_video_youtube_rate_206,['None'],tester1,session_1760434389382,2,2025-10-14T09:38:38.560024,gpt-4.1,video
+gpt-4.1_video_youtube_rate_207,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:39.543206,gpt-4.1,video
+gpt-4.1_video_youtube_rate_208,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:40.548813,gpt-4.1,video
+gpt-4.1_video_youtube_rate_209,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:41.384939,gpt-4.1,video
+gpt-4.1_video_youtube_rate_210,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:42.245305,gpt-4.1,video
+gpt-4.1_video_youtube_rate_211,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:43.058377,gpt-4.1,video
+gpt-4.1_video_youtube_rate_212,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:43.935175,gpt-4.1,video
+gpt-4.1_video_youtube_rate_213,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:44.800032,gpt-4.1,video
+gpt-4.1_video_youtube_rate_214,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:45.870601,gpt-4.1,video
+gpt-4.1_video_youtube_rate_215,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:46.869509,gpt-4.1,video
+gpt-4.1_video_youtube_rate_216,['None'],tester1,session_1760434389382,2,2025-10-14T09:38:48.465060,gpt-4.1,video
+gpt-4.1_video_youtube_rate_217,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:49.276624,gpt-4.1,video
+gpt-4.1_video_youtube_rate_218,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:50.214985,gpt-4.1,video
+gpt-4.1_video_youtube_rate_219,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:51.290521,gpt-4.1,video
+gpt-4.1_video_youtube_rate_220,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:52.266976,gpt-4.1,video
+gpt-4.1_video_youtube_rate_221,['None'],tester1,session_1760434389382,2,2025-10-14T09:38:53.986455,gpt-4.1,video
+gpt-4.1_video_youtube_rate_222,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:54.954988,gpt-4.1,video
+gpt-4.1_video_youtube_rate_223,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:55.993029,gpt-4.1,video
+gpt-4.1_video_youtube_rate_224,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:57.093691,gpt-4.1,video
+gpt-4.1_video_youtube_rate_225,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:58.247405,gpt-4.1,video
+gpt-4.1_video_youtube_rate_226,['None'],tester1,session_1760434389382,1,2025-10-14T09:38:59.347376,gpt-4.1,video
+gpt-4.1_video_youtube_rate_227,['None'],tester1,session_1760434389382,1,2025-10-14T09:39:00.688564,gpt-4.1,video
+gpt-4.1_video_youtube_rate_228,['None'],tester1,session_1760434389382,8,2025-10-14T09:39:08.681675,gpt-4.1,video
+gpt-4.1_video_youtube_rate_229,['None'],tester1,session_1760434389382,4,2025-10-14T09:39:12.460824,gpt-4.1,video
+gpt-4.1_video_youtube_rate_230,['None'],tester1,session_1760434389382,3,2025-10-14T09:39:15.644995,gpt-4.1,video

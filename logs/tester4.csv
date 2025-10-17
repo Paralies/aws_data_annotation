@@ -1,0 +1,7 @@
+content_id,answer,annotator_id,session_id,time_spent,timestamp,model_id,input_type
+gpt-4.1_video_youtube_rate_1,['None'],tester4,session_1760684954556,4,2025-10-17T07:09:18.180460,gpt-4.1,video
+gpt-4.1_video_youtube_rate_2,['None'],tester4,session_1760684954556,2,2025-10-17T07:09:20.704248,gpt-4.1,video
+gpt-4.1_video_youtube_rate_3,['None'],tester4,session_1760684954556,58,2025-10-17T07:10:18.552300,gpt-4.1,video
+gpt-4.1_video_youtube_rate_4,['None'],tester4,session_1760684954556,1,2025-10-17T07:10:19.904814,gpt-4.1,video
+gpt-4.1_video_youtube_rate_5,['None'],tester4,session_1760684954556,1,2025-10-17T07:10:21.113410,gpt-4.1,video
+gpt-4.1_video_youtube_rate_6,['None'],tester4,session_1760684954556,1,2025-10-17T07:10:22.391252,gpt-4.1,video
