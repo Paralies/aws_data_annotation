@@ -1,0 +1,21 @@
+content_id,answer,annotator_id,session_id,time_spent,timestamp,model_id,input_type
+gpt-4.1_video_youtube_rate_1,['Violence'],test1,session_1760687110702,49,2025-10-17T07:45:59.731800,gpt-4.1,video
+gpt-4.1_video_youtube_rate_2,"['Violence', 'Drugs']",test1,session_1760687110702,5,2025-10-17T07:46:04.399608,gpt-4.1,video
+gpt-4.1_video_youtube_rate_3,"['Sex and Nudity', 'Bias']",test1,session_1760687110702,5,2025-10-17T07:46:09.061792,gpt-4.1,video
+gpt-4.1_video_youtube_rate_3_bias,"Nationality,Race",test1,session_1760687110702,70,2025-10-17T07:47:19.320422,,
+gpt-4.1_video_youtube_rate_4,"['Violence', 'Bias']",test1,session_1760687110702,5,2025-10-17T07:47:24.527937,gpt-4.1,video
+gpt-4.1_video_youtube_rate_4_bias,"Gender,Sexual Identity",test1,session_1760687110702,4,2025-10-17T07:47:28.738924,,
+gpt-4.1_video_youtube_rate_5,"['Violence', 'Bias']",test1,session_1760687110702,35,2025-10-17T07:48:03.445613,gpt-4.1,video
+gpt-4.1_video_youtube_rate_5_bias,"Gender,Race",test1,session_1760687110702,143,2025-10-17T07:50:26.230953,,
+gpt-4.1_video_youtube_rate_6,['Bias'],test1,session_1760687110702,78,2025-10-17T07:51:44.555969,gpt-4.1,video
+gpt-4.1_video_youtube_rate_7,['Bias'],test1,session_1760691482102,2,2025-10-17T08:58:04.684604,gpt-4.1,video
+gpt-4.1_video_youtube_rate_7_bias,"Race,Culture",test1,session_1760691482102,9,2025-10-17T08:58:13.206806,,
+gpt-4.1_video_youtube_rate_8,['Violence'],test1,session_1760691482102,2,2025-10-17T08:58:15.359652,gpt-4.1,video
+gpt-4.1_video_youtube_rate_9,"['Drugs', 'Language', 'Bias']",test1,session_1760691482102,2,2025-10-17T08:58:17.538016,gpt-4.1,video
+gpt-4.1_video_youtube_rate_9_bias,"Gender,Culture",test1,session_1760691482102,2,2025-10-17T08:58:19.094415,,
+gpt-4.1_video_youtube_rate_10,['Sex and Nudity'],test1,session_1760691482102,1,2025-10-17T08:58:20.528836,gpt-4.1,video
+gpt-4.1_video_youtube_rate_11,['Bias'],test1,session_1760691482102,1,2025-10-17T08:58:22.023731,gpt-4.1,video
+gpt-4.1_video_youtube_rate_11_bias,"Disability,Gender",test1,session_1760691482102,2,2025-10-17T08:58:23.612868,,
+gpt-4.1_video_youtube_rate_12,['None'],test1,session_1760691894647,2,2025-10-17T09:04:56.736486,gpt-4.1,video
+gpt-4.1_video_youtube_rate_13,['Bias'],test1,session_1760691894647,2,2025-10-17T09:04:58.598990,gpt-4.1,video
+gpt-4.1_video_youtube_rate_13_bias,"Gender,Culture",test1,session_1760691894647,2,2025-10-17T09:05:00.839246,,

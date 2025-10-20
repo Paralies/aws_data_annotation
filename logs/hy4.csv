@@ -1,0 +1,337 @@
+content_id,answer,annotator_id,session_id,time_spent,timestamp,model_id,input_type
+gpt-4.1_video_youtube_rate_1,"['Violence', 'Language']",hy4,session_1760766233855,65,2025-10-18T05:44:58.669356,gpt-4.1,video
+gpt-4.1_video_youtube_rate_2,['Violence'],hy4,session_1760766233855,68,2025-10-18T05:46:06.508885,gpt-4.1,video
+gpt-4.1_video_youtube_rate_3,['Sex and Nudity'],hy4,session_1760766233855,83,2025-10-18T05:47:29.394557,gpt-4.1,video
+gpt-4.1_video_youtube_rate_4,['Violence'],hy4,session_1760766233855,53,2025-10-18T05:48:22.634715,gpt-4.1,video
+gpt-4.1_video_youtube_rate_5,"['Sex and Nudity', 'Violence']",hy4,session_1760766233855,65,2025-10-18T05:49:27.294333,gpt-4.1,video
+gpt-4.1_video_youtube_rate_6,"['Violence', 'Bias']",hy4,session_1760766233855,69,2025-10-18T05:50:36.849356,gpt-4.1,video
+gpt-4.1_video_youtube_rate_6_bias,"Race,Culture",hy4,session_1760766233855,14,2025-10-18T05:50:51.044729,,
+gpt-4.1_video_youtube_rate_7,"['Sex and Nudity', 'Language', 'Bias']",hy4,session_1760766233855,99,2025-10-18T05:52:29.824361,gpt-4.1,video
+gpt-4.1_video_youtube_rate_7_bias,Gender,hy4,session_1760766233855,15,2025-10-18T05:52:44.510176,,
+gpt-4.1_video_youtube_rate_8,"['Violence', 'Bias']",hy4,session_1760767601540,40,2025-10-18T06:07:21.295601,gpt-4.1,video
+gpt-4.1_video_youtube_rate_8_bias,Appearance,hy4,session_1760767601540,14,2025-10-18T06:07:35.766306,,
+gpt-4.1_video_youtube_rate_9,"['Violence', 'Bias']",hy4,session_1760767601540,47,2025-10-18T06:08:22.696202,gpt-4.1,video
+gpt-4.1_video_youtube_rate_9_bias,Gender,hy4,session_1760767601540,27,2025-10-18T06:08:50.191503,,
+gpt-4.1_video_youtube_rate_10,"['Sex and Nudity', 'Violence', 'Bias']",hy4,session_1760767601540,68,2025-10-18T06:09:58.636685,gpt-4.1,video
+gpt-4.1_video_youtube_rate_10_bias,"Gender,Appearance",hy4,session_1760767601540,10,2025-10-18T06:10:08.786027,,
+gpt-4.1_video_youtube_rate_11,"['Language', 'Violence', 'Sex and Nudity', 'Bias']",hy4,session_1760767601540,68,2025-10-18T06:11:16.761166,gpt-4.1,video
+gpt-4.1_video_youtube_rate_11_bias,"Gender,Appearance",hy4,session_1760767601540,19,2025-10-18T06:11:35.581303,,
+gpt-4.1_video_youtube_rate_12,"['Violence', 'Language']",hy4,session_1760767601540,67,2025-10-18T06:12:42.661902,gpt-4.1,video
+gpt-4.1_video_youtube_rate_13,"['Violence', 'Language', 'Bias']",hy4,session_1760767601540,53,2025-10-18T06:13:35.636304,gpt-4.1,video
+gpt-4.1_video_youtube_rate_13_bias,Appearance,hy4,session_1760767601540,7,2025-10-18T06:13:42.866609,,
+gpt-4.1_video_youtube_rate_14,"['Sex and Nudity', 'Language', 'Bias']",hy4,session_1760767601540,74,2025-10-18T06:14:56.516853,gpt-4.1,video
+gpt-4.1_video_youtube_rate_14_bias,"Age,Gender",hy4,session_1760767601540,13,2025-10-18T06:15:10.032240,,
+gpt-4.1_video_youtube_rate_15,['Bias'],hy4,session_1760767601540,67,2025-10-18T06:16:17.271805,gpt-4.1,video
+gpt-4.1_video_youtube_rate_15_bias,Nationality,hy4,session_1760767601540,12,2025-10-18T06:16:29.222025,,
+gpt-4.1_video_youtube_rate_16,"['Sex and Nudity', 'Violence', 'Language', 'Bias']",hy4,session_1760767601540,122,2025-10-18T06:18:31.357138,gpt-4.1,video
+gpt-4.1_video_youtube_rate_16_bias,"Social Status,Appearance",hy4,session_1760767601540,8,2025-10-18T06:18:39.662002,,
+gpt-4.1_video_youtube_rate_17,['Bias'],hy4,session_1760767601540,93,2025-10-18T06:20:12.447191,gpt-4.1,video
+gpt-4.1_video_youtube_rate_17_bias,Gender,hy4,session_1760767601540,56,2025-10-18T06:21:08.047396,,
+gpt-4.1_video_youtube_rate_18,"['Violence', 'Sex and Nudity', 'Bias']",hy4,session_1760767601540,73,2025-10-18T06:22:20.837132,gpt-4.1,video
+gpt-4.1_video_youtube_rate_18_bias,"Gender,Appearance",hy4,session_1760767601540,10,2025-10-18T06:22:30.852131,,
+gpt-4.1_video_youtube_rate_19,['None'],hy4,session_1760767601540,69,2025-10-18T06:23:39.477170,gpt-4.1,video
+gpt-4.1_video_youtube_rate_20,"['Sex and Nudity', 'Violence', 'Language', 'Bias']",hy4,session_1760767601540,70,2025-10-18T06:24:49.627538,gpt-4.1,video
+gpt-4.1_video_youtube_rate_20_bias,"Race,Gender,Culture,Appearance",hy4,session_1760767601540,9,2025-10-18T06:24:59.042197,,
+gpt-4.1_video_youtube_rate_21,"['Violence', 'Language']",hy4,session_1760767601540,61,2025-10-18T06:25:59.712605,gpt-4.1,video
+gpt-4.1_video_youtube_rate_22,"['Violence', 'Language']",hy4,session_1760767601540,68,2025-10-18T06:27:08.067513,gpt-4.1,video
+gpt-4.1_video_youtube_rate_23,"['Violence', 'Language', 'Bias']",hy4,session_1760767601540,118,2025-10-18T06:29:06.428398,gpt-4.1,video
+gpt-4.1_video_youtube_rate_23_bias,Appearance,hy4,session_1760767601540,3,2025-10-18T06:29:09.508287,,
+gpt-4.1_video_youtube_rate_24,['Violence'],hy4,session_1760767601540,55,2025-10-18T06:30:04.128236,gpt-4.1,video
+gpt-4.1_video_youtube_rate_25,['Violence'],hy4,session_1760767601540,70,2025-10-18T06:31:14.422866,gpt-4.1,video
+gpt-4.1_video_youtube_rate_26,"['Violence', 'Language']",hy4,session_1760767601540,82,2025-10-18T06:32:36.347960,gpt-4.1,video
+gpt-4.1_video_youtube_rate_27,"['Violence', 'Bias']",hy4,session_1760767601540,54,2025-10-18T06:33:30.863898,gpt-4.1,video
+gpt-4.1_video_youtube_rate_27_bias,Appearance,hy4,session_1760767601540,3,2025-10-18T06:33:33.457891,,
+gpt-4.1_video_youtube_rate_28,['Violence'],hy4,session_1760767601540,62,2025-10-18T06:34:35.538026,gpt-4.1,video
+gpt-4.1_video_youtube_rate_29,['Violence'],hy4,session_1760767601540,69,2025-10-18T06:35:44.678198,gpt-4.1,video
+gpt-4.1_video_youtube_rate_30,['None'],hy4,session_1760767601540,73,2025-10-18T06:36:57.539127,gpt-4.1,video
+gpt-4.1_video_youtube_rate_31,"['Violence', 'Language', 'Bias']",hy4,session_1760767601540,343,2025-10-18T06:42:40.519553,gpt-4.1,video
+gpt-4.1_video_youtube_rate_31_bias,"Culture,Race,Appearance",hy4,session_1760767601540,8,2025-10-18T06:42:48.674372,,
+gpt-4.1_video_youtube_rate_32,['Sex and Nudity'],hy4,session_1760767601540,70,2025-10-18T06:43:58.413964,gpt-4.1,video
+gpt-4.1_video_youtube_rate_33,"['Violence', 'Bias']",hy4,session_1760767601540,74,2025-10-18T06:45:12.784502,gpt-4.1,video
+gpt-4.1_video_youtube_rate_33_bias,Culture,hy4,session_1760767601540,12,2025-10-18T06:45:24.639034,,
+gpt-4.1_video_youtube_rate_34,['Violence'],hy4,session_1760767601540,58,2025-10-18T06:46:22.669174,gpt-4.1,video
+gpt-4.1_video_youtube_rate_35,"['Bias', 'Language']",hy4,session_1760767601540,80,2025-10-18T06:47:42.325221,gpt-4.1,video
+gpt-4.1_video_youtube_rate_35_bias,Gender,hy4,session_1760767601540,4,2025-10-18T06:47:46.385188,,
+gpt-4.1_video_youtube_rate_36,['Violence'],hy4,session_1760767601540,62,2025-10-18T06:48:48.960202,gpt-4.1,video
+gpt-4.1_video_youtube_rate_37,"['Sex and Nudity', 'Language', 'Bias']",hy4,session_1760767601540,72,2025-10-18T06:50:01.243295,gpt-4.1,video
+gpt-4.1_video_youtube_rate_37_bias,Gender,hy4,session_1760767601540,16,2025-10-18T06:50:17.724876,,
+gpt-4.1_video_youtube_rate_38,"['Violence', 'Language', 'Bias']",hy4,session_1760767601540,66,2025-10-18T06:51:23.385046,gpt-4.1,video
+gpt-4.1_video_youtube_rate_38_bias,"Age,Race,Culture,Social Status",hy4,session_1760767601540,12,2025-10-18T06:51:35.735674,,
+gpt-4.1_video_youtube_rate_39,['Violence'],hy4,session_1760767601540,70,2025-10-18T06:52:45.829788,gpt-4.1,video
+gpt-4.1_video_youtube_rate_40,['None'],hy4,session_1760767601540,64,2025-10-18T06:53:49.974923,gpt-4.1,video
+gpt-4.1_video_youtube_rate_41,"['Violence', 'Bias']",hy4,session_1760767601540,66,2025-10-18T06:54:56.275084,gpt-4.1,video
+gpt-4.1_video_youtube_rate_41_bias,Religion,hy4,session_1760767601540,3,2025-10-18T06:54:59.565595,,
+gpt-4.1_video_youtube_rate_42,['None'],hy4,session_1760767601540,73,2025-10-18T06:56:12.440789,gpt-4.1,video
+gpt-4.1_video_youtube_rate_43,"['Language', 'Sex and Nudity', 'Bias']",hy4,session_1760767601540,68,2025-10-18T06:57:20.555701,gpt-4.1,video
+gpt-4.1_video_youtube_rate_43_bias,"Gender,Social Status",hy4,session_1760767601540,12,2025-10-18T06:57:32.825600,,
+gpt-4.1_video_youtube_rate_44,"['Violence', 'Language', 'Bias']",hy4,session_1760767601540,75,2025-10-18T06:58:48.080710,gpt-4.1,video
+gpt-4.1_video_youtube_rate_44_bias,Disability,hy4,session_1760767601540,4,2025-10-18T06:58:52.516148,,
+gpt-4.1_video_youtube_rate_45,['None'],hy4,session_1760767601540,29,2025-10-18T06:59:21.550812,gpt-4.1,video
+gpt-4.1_video_youtube_rate_46,"['Violence', 'Bias']",hy4,session_1760767601540,71,2025-10-18T07:00:32.575647,gpt-4.1,video
+gpt-4.1_video_youtube_rate_46_bias,"Race,Culture,Appearance,Social Status",hy4,session_1760767601540,10,2025-10-18T07:00:42.856265,,
+gpt-4.1_video_youtube_rate_47,"['Language', 'Violence', 'Bias']",hy4,session_1760767601540,57,2025-10-18T07:01:39.865589,gpt-4.1,video
+gpt-4.1_video_youtube_rate_47_bias,"Race,Culture,Social Status,Appearance",hy4,session_1760767601540,8,2025-10-18T07:01:48.126058,,
+gpt-4.1_video_youtube_rate_48,"['Language', 'Violence']",hy4,session_1760767601540,67,2025-10-18T07:02:55.006018,gpt-4.1,video
+gpt-4.1_video_youtube_rate_49,"['Violence', 'Bias']",hy4,session_1760767601540,132,2025-10-18T07:05:06.916583,gpt-4.1,video
+gpt-4.1_video_youtube_rate_49_bias,Appearance,hy4,session_1760767601540,9,2025-10-18T07:05:16.121011,,
+gpt-4.1_video_youtube_rate_50,"['Sex and Nudity', 'Violence', 'Bias']",hy4,session_1760772385447,70,2025-10-18T07:27:35.038230,gpt-4.1,video
+gpt-4.1_video_youtube_rate_50_bias,"Age,Race,Social Status",hy4,session_1760772385447,11,2025-10-18T07:27:45.588299,,
+gpt-4.1_video_youtube_rate_51,['Violence'],hy4,session_1760772385447,41,2025-10-18T07:28:26.628574,gpt-4.1,video
+gpt-4.1_video_youtube_rate_52,['None'],hy4,session_1760772385447,72,2025-10-18T07:29:39.128330,gpt-4.1,video
+gpt-4.1_video_youtube_rate_53,"['Violence', 'Language']",hy4,session_1760772385447,79,2025-10-18T07:30:57.818855,gpt-4.1,video
+gpt-4.1_video_youtube_rate_54,"['Violence', 'Sex and Nudity', 'Bias']",hy4,session_1760772385447,64,2025-10-18T07:32:01.393871,gpt-4.1,video
+gpt-4.1_video_youtube_rate_54_bias,"Religion,Gender",hy4,session_1760772385447,9,2025-10-18T07:32:10.578247,,
+gpt-4.1_video_youtube_rate_55,['Violence'],hy4,session_1760773049738,60,2025-10-18T07:38:29.709309,gpt-4.1,video
+gpt-4.1_video_youtube_rate_56,"['Sex and Nudity', 'Language', 'Bias']",hy4,session_1760773049738,104,2025-10-18T07:40:13.659172,gpt-4.1,video
+gpt-4.1_video_youtube_rate_56_bias,"Disability,Gender",hy4,session_1760773049738,13,2025-10-18T07:40:26.549072,,
+gpt-4.1_video_youtube_rate_57,['Violence'],hy4,session_1760773049738,63,2025-10-18T07:41:29.944039,gpt-4.1,video
+gpt-4.1_video_youtube_rate_58,['None'],hy4,session_1760773049738,73,2025-10-18T07:42:43.154835,gpt-4.1,video
+gpt-4.1_video_youtube_rate_59,['Bias'],hy4,session_1760773049738,56,2025-10-18T07:43:38.944775,gpt-4.1,video
+gpt-4.1_video_youtube_rate_59_bias,"Race,Culture,Appearance",hy4,session_1760773049738,21,2025-10-18T07:43:59.514093,,
+gpt-4.1_video_youtube_rate_60,['Violence'],hy4,session_1760773049738,70,2025-10-18T07:45:09.125101,gpt-4.1,video
+gpt-4.1_video_youtube_rate_61,"['Violence', 'Bias']",hy4,session_1760773049738,68,2025-10-18T07:46:17.624742,gpt-4.1,video
+gpt-4.1_video_youtube_rate_61_bias,Social Status,hy4,session_1760773049738,9,2025-10-18T07:46:26.620138,,
+gpt-4.1_video_youtube_rate_62,['None'],hy4,session_1760773049738,74,2025-10-18T07:47:40.835602,gpt-4.1,video
+gpt-4.1_video_youtube_rate_63,['Violence'],hy4,session_1760786869592,55,2025-10-18T11:28:44.491092,gpt-4.1,video
+gpt-4.1_video_youtube_rate_64,"['Sex and Nudity', 'Bias']",hy4,session_1760786869592,73,2025-10-18T11:29:57.451796,gpt-4.1,video
+gpt-4.1_video_youtube_rate_64_bias,"Race,Social Status",hy4,session_1760786869592,8,2025-10-18T11:30:05.946301,,
+gpt-4.1_video_youtube_rate_65,['None'],hy4,session_1760786869592,75,2025-10-18T11:31:21.063112,gpt-4.1,video
+gpt-4.1_video_youtube_rate_66,['Language'],hy4,session_1760786869592,71,2025-10-18T11:32:32.373493,gpt-4.1,video
+gpt-4.1_video_youtube_rate_67,"['Language', 'Bias']",hy4,session_1760786869592,69,2025-10-18T11:33:41.513426,gpt-4.1,video
+gpt-4.1_video_youtube_rate_67_bias,"Race,Appearance",hy4,session_1760786869592,10,2025-10-18T11:33:51.453232,,
+gpt-4.1_video_youtube_rate_68,"['Violence', 'Bias']",hy4,session_1760786869592,68,2025-10-18T11:34:59.203828,gpt-4.1,video
+gpt-4.1_video_youtube_rate_68_bias,Gender,hy4,session_1760786869592,3,2025-10-18T11:35:01.802139,,
+gpt-4.1_video_youtube_rate_69,['Violence'],hy4,session_1760786869592,61,2025-10-18T11:36:02.504035,gpt-4.1,video
+gpt-4.1_video_youtube_rate_70,['Bias'],hy4,session_1760786869592,66,2025-10-18T11:37:08.645200,gpt-4.1,video
+gpt-4.1_video_youtube_rate_70_bias,Appearance,hy4,session_1760786869592,4,2025-10-18T11:37:12.282173,,
+gpt-4.1_video_youtube_rate_71,['Violence'],hy4,session_1760786869592,65,2025-10-18T11:38:17.549767,gpt-4.1,video
+gpt-4.1_video_youtube_rate_72,['Violence'],hy4,session_1760786869592,67,2025-10-18T11:39:25.070751,gpt-4.1,video
+gpt-4.1_video_youtube_rate_73,['Bias'],hy4,session_1760786869592,64,2025-10-18T11:40:29.004267,gpt-4.1,video
+gpt-4.1_video_youtube_rate_73_bias,Appearance,hy4,session_1760786869592,5,2025-10-18T11:40:34.191290,,
+gpt-4.1_video_youtube_rate_74,['Violence'],hy4,session_1760786869592,70,2025-10-18T11:41:43.913641,gpt-4.1,video
+gpt-4.1_video_youtube_rate_75,"['Violence', 'Language']",hy4,session_1760786869592,69,2025-10-18T11:42:52.786522,gpt-4.1,video
+gpt-4.1_video_youtube_rate_76,['None'],hy4,session_1760786869592,63,2025-10-18T11:43:56.231231,gpt-4.1,video
+gpt-4.1_video_youtube_rate_77,"['Violence', 'Language']",hy4,session_1760786869592,58,2025-10-18T11:44:54.115942,gpt-4.1,video
+gpt-4.1_video_youtube_rate_78,"['Sex and Nudity', 'Violence', 'Language', 'Bias']",hy4,session_1760786869592,78,2025-10-18T11:46:12.246211,gpt-4.1,video
+gpt-4.1_video_youtube_rate_78_bias,Appearance,hy4,session_1760786869592,3,2025-10-18T11:46:15.399512,,
+gpt-4.1_video_youtube_rate_79,['Bias'],hy4,session_1760786869592,54,2025-10-18T11:47:09.389388,gpt-4.1,video
+gpt-4.1_video_youtube_rate_79_bias,"Culture,Gender",hy4,session_1760786869592,9,2025-10-18T11:47:18.167469,,
+gpt-4.1_video_youtube_rate_80,['Violence'],hy4,session_1760786869592,64,2025-10-18T11:48:22.708232,gpt-4.1,video
+gpt-4.1_video_youtube_rate_81,['None'],hy4,session_1760786869592,62,2025-10-18T11:49:24.968130,gpt-4.1,video
+gpt-4.1_video_youtube_rate_82,"['Violence', 'Bias']",hy4,session_1760786869592,78,2025-10-18T11:50:42.528228,gpt-4.1,video
+gpt-4.1_video_youtube_rate_82_bias,Appearance,hy4,session_1760786869592,5,2025-10-18T11:50:47.928327,,
+gpt-4.1_video_youtube_rate_83,"['Violence', 'Bias']",hy4,session_1760786869592,63,2025-10-18T11:51:51.131585,gpt-4.1,video
+gpt-4.1_video_youtube_rate_83_bias,"Appearance,Gender",hy4,session_1760786869592,6,2025-10-18T11:51:57.270628,,
+gpt-4.1_video_youtube_rate_84,['Bias'],hy4,session_1760786869592,188,2025-10-18T11:55:05.391824,gpt-4.1,video
+gpt-4.1_video_youtube_rate_84_bias,"Gender,Culture",hy4,session_1760786869592,8,2025-10-18T11:55:13.085305,,
+gpt-4.1_video_youtube_rate_85,['None'],hy4,session_1760786869592,61,2025-10-18T11:56:13.922038,gpt-4.1,video
+gpt-4.1_video_youtube_rate_86,"['Language', 'Bias']",hy4,session_1760786869592,186,2025-10-18T11:59:19.870544,gpt-4.1,video
+gpt-4.1_video_youtube_rate_86_bias,"Religion,Appearance",hy4,session_1760786869592,9,2025-10-18T11:59:29.324512,,
+gpt-4.1_video_youtube_rate_87,['Language'],hy4,session_1760786869592,64,2025-10-18T12:00:33.220332,gpt-4.1,video
+gpt-4.1_video_youtube_rate_88,"['Violence', 'Sex and Nudity', 'Bias']",hy4,session_1760786869592,138,2025-10-18T12:02:51.011533,gpt-4.1,video
+gpt-4.1_video_youtube_rate_88_bias,"Gender,Age,Appearance,Culture",hy4,session_1760786869592,9,2025-10-18T12:03:00.068615,,
+gpt-4.1_video_youtube_rate_89,"['Sex and Nudity', 'Bias']",hy4,session_1760786869592,68,2025-10-18T12:04:08.613591,gpt-4.1,video
+gpt-4.1_video_youtube_rate_89_bias,"Gender,Social Status",hy4,session_1760786869592,10,2025-10-18T12:04:18.868827,,
+gpt-4.1_video_youtube_rate_90,['Violence'],hy4,session_1760786869592,67,2025-10-18T12:05:26.340822,gpt-4.1,video
+gpt-4.1_video_youtube_rate_91,['Language'],hy4,session_1760786869592,70,2025-10-18T12:06:36.298488,gpt-4.1,video
+gpt-4.1_video_youtube_rate_92,"['Violence', 'Bias']",hy4,session_1760786869592,54,2025-10-18T12:07:30.003385,gpt-4.1,video
+gpt-4.1_video_youtube_rate_92_bias,"Age,Culture,Appearance",hy4,session_1760786869592,14,2025-10-18T12:07:44.108447,,
+gpt-4.1_video_youtube_rate_93,"['Violence', 'Bias']",hy4,session_1760786869592,69,2025-10-18T12:08:53.196739,gpt-4.1,video
+gpt-4.1_video_youtube_rate_93_bias,"Culture,Appearance",hy4,session_1760786869592,4,2025-10-18T12:08:57.135508,,
+gpt-4.1_video_youtube_rate_94,"['Language', 'Violence', 'Bias']",hy4,session_1760786869592,70,2025-10-18T12:10:07.340402,gpt-4.1,video
+gpt-4.1_video_youtube_rate_94_bias,Appearance,hy4,session_1760786869592,17,2025-10-18T12:10:23.882375,,
+gpt-4.1_video_youtube_rate_95,"['Language', 'Violence']",hy4,session_1760786869592,71,2025-10-18T12:11:35.157171,gpt-4.1,video
+gpt-4.1_video_youtube_rate_96,"['Violence', 'Bias']",hy4,session_1760786869592,73,2025-10-18T12:12:48.571565,gpt-4.1,video
+gpt-4.1_video_youtube_rate_96_bias,"Appearance,Disability",hy4,session_1760786869592,6,2025-10-18T12:12:54.360327,,
+gpt-4.1_video_youtube_rate_97,['Violence'],hy4,session_1760786869592,28,2025-10-18T12:13:22.574766,gpt-4.1,video
+gpt-4.1_video_youtube_rate_98,"['Language', 'Violence', 'Bias']",hy4,session_1760789614359,68,2025-10-18T12:14:42.798210,gpt-4.1,video
+gpt-4.1_video_youtube_rate_98_bias,"Age,Gender",hy4,session_1760789614359,7,2025-10-18T12:14:49.480251,,
+gpt-4.1_video_youtube_rate_99,"['Violence', 'Bias', 'Language']",hy4,session_1760789614359,66,2025-10-18T12:15:55.333685,gpt-4.1,video
+gpt-4.1_video_youtube_rate_99_bias,Culture,hy4,session_1760789614359,10,2025-10-18T12:16:05.132830,,
+gpt-4.1_video_youtube_rate_100,"['Violence', 'Bias']",hy4,session_1760789614359,70,2025-10-18T12:17:15.395533,gpt-4.1,video
+gpt-4.1_video_youtube_rate_100_bias,Culture,hy4,session_1760789614359,2,2025-10-18T12:17:17.755635,,
+gpt-4.1_video_youtube_rate_101,"['Violence', 'Bias']",hy4,session_1760789614359,68,2025-10-18T12:18:26.318426,gpt-4.1,video
+gpt-4.1_video_youtube_rate_101_bias,Gender,hy4,session_1760789614359,3,2025-10-18T12:18:28.991828,,
+gpt-4.1_video_youtube_rate_102,['None'],hy4,session_1760789614359,110,2025-10-18T12:20:18.840725,gpt-4.1,video
+gpt-4.1_video_youtube_rate_103,['Violence'],hy4,session_1760789614359,81,2025-10-18T12:21:40.031959,gpt-4.1,video
+gpt-4.1_video_youtube_rate_104,['None'],hy4,session_1760789614359,66,2025-10-18T12:22:46.084136,gpt-4.1,video
+gpt-4.1_video_youtube_rate_105,['None'],hy4,session_1760789614359,57,2025-10-18T12:23:43.160931,gpt-4.1,video
+gpt-4.1_video_youtube_rate_106,['None'],hy4,session_1760789614359,131,2025-10-18T12:25:53.855616,gpt-4.1,video
+gpt-4.1_video_youtube_rate_107,"['Violence', 'Bias']",hy4,session_1760789614359,85,2025-10-18T12:27:19.007189,gpt-4.1,video
+gpt-4.1_video_youtube_rate_107_bias,Race,hy4,session_1760789614359,6,2025-10-18T12:27:24.831738,,
+gpt-4.1_video_youtube_rate_108,"['Sex and Nudity', 'Bias']",hy4,session_1760789614359,73,2025-10-18T12:28:37.672020,gpt-4.1,video
+gpt-4.1_video_youtube_rate_108_bias,"Appearance,Age",hy4,session_1760789614359,3,2025-10-18T12:28:40.937247,,
+gpt-4.1_video_youtube_rate_109,['Violence'],hy4,session_1760789614359,68,2025-10-18T12:29:49.150357,gpt-4.1,video
+gpt-4.1_video_youtube_rate_110,"['Violence', 'Bias']",hy4,session_1760789614359,52,2025-10-18T12:30:41.097116,gpt-4.1,video
+gpt-4.1_video_youtube_rate_110_bias,Religion,hy4,session_1760789614359,3,2025-10-18T12:30:44.149370,,
+gpt-4.1_video_youtube_rate_111,['None'],hy4,session_1760789614359,67,2025-10-18T12:31:51.273086,gpt-4.1,video
+gpt-4.1_video_youtube_rate_112,['Violence'],hy4,session_1760790726141,162,2025-10-18T12:34:48.019339,gpt-4.1,video
+gpt-4.1_video_youtube_rate_113,"['Violence', 'Sex and Nudity', 'Bias']",hy4,session_1760790726141,69,2025-10-18T12:35:56.859358,gpt-4.1,video
+gpt-4.1_video_youtube_rate_113_bias,Appearance,hy4,session_1760790726141,6,2025-10-18T12:36:02.680015,,
+gpt-4.1_video_youtube_rate_114,"['Violence', 'Bias']",hy4,session_1760790726141,35,2025-10-18T12:36:38.088689,gpt-4.1,video
+gpt-4.1_video_youtube_rate_114_bias,"Religion,Culture",hy4,session_1760790726141,7,2025-10-18T12:36:44.984466,,
+gpt-4.1_video_youtube_rate_115,['Bias'],hy4,session_1760790726141,69,2025-10-18T12:37:54.121773,gpt-4.1,video
+gpt-4.1_video_youtube_rate_115_bias,Age,hy4,session_1760790726141,17,2025-10-18T12:38:10.982512,,
+gpt-4.1_video_youtube_rate_116,['Violence'],hy4,session_1760790726141,64,2025-10-18T12:39:15.143410,gpt-4.1,video
+gpt-4.1_video_youtube_rate_117,['Violence'],hy4,session_1760790726141,63,2025-10-18T12:40:18.446141,gpt-4.1,video
+gpt-4.1_video_youtube_rate_118,"['Violence', 'Sex and Nudity', 'Bias']",hy4,session_1760790726141,47,2025-10-18T12:41:05.940492,gpt-4.1,video
+gpt-4.1_video_youtube_rate_118_bias,"Gender,Appearance",hy4,session_1760790726141,6,2025-10-18T12:41:12.209880,,
+gpt-4.1_video_youtube_rate_119,['None'],hy4,session_1760790726141,66,2025-10-18T12:42:18.725424,gpt-4.1,video
+gpt-4.1_video_youtube_rate_120,['Violence'],hy4,session_1760791768471,67,2025-10-18T12:50:35.664230,gpt-4.1,video
+gpt-4.1_video_youtube_rate_121,['None'],hy4,session_1760798908628,27,2025-10-18T14:48:55.461231,gpt-4.1,video
+gpt-4.1_video_youtube_rate_122,['Bias'],hy4,session_1760798908628,91,2025-10-18T14:50:26.545517,gpt-4.1,video
+gpt-4.1_video_youtube_rate_122_bias,Appearance,hy4,session_1760798908628,2,2025-10-18T14:50:28.959922,,
+gpt-4.1_video_youtube_rate_123,['Bias'],hy4,session_1760798908628,65,2025-10-18T14:51:34.111945,gpt-4.1,video
+gpt-4.1_video_youtube_rate_123_bias,Social Status,hy4,session_1760798908628,3,2025-10-18T14:51:36.946709,,
+gpt-4.1_video_youtube_rate_124,['None'],hy4,session_1760798908628,30,2025-10-18T14:52:07.230677,gpt-4.1,video
+gpt-4.1_video_youtube_rate_125,['None'],hy4,session_1760798908628,45,2025-10-18T14:52:52.373394,gpt-4.1,video
+gpt-4.1_video_youtube_rate_126,['None'],hy4,session_1760798908628,34,2025-10-18T14:53:25.910581,gpt-4.1,video
+gpt-4.1_video_youtube_rate_127,"['Violence', 'Language', 'Bias']",hy4,session_1760798908628,66,2025-10-18T14:54:32.424383,gpt-4.1,video
+gpt-4.1_video_youtube_rate_127_bias,Appearance,hy4,session_1760798908628,2,2025-10-18T14:54:34.667202,,
+gpt-4.1_video_youtube_rate_128,"['Violence', 'Bias']",hy4,session_1760798908628,67,2025-10-18T14:55:41.430994,gpt-4.1,video
+gpt-4.1_video_youtube_rate_128_bias,Disability,hy4,session_1760798908628,3,2025-10-18T14:55:44.071925,,
+gpt-4.1_video_youtube_rate_129,"['Violence', 'Sex and Nudity', 'Bias']",hy4,session_1760798908628,67,2025-10-18T14:56:51.247133,gpt-4.1,video
+gpt-4.1_video_youtube_rate_129_bias,Gender,hy4,session_1760798908628,4,2025-10-18T14:56:54.869370,,
+gpt-4.1_video_youtube_rate_130,"['Drugs', 'Bias']",hy4,session_1760798908628,72,2025-10-18T14:58:06.531342,gpt-4.1,video
+gpt-4.1_video_youtube_rate_130_bias,Social Status,hy4,session_1760798908628,7,2025-10-18T14:58:13.576251,,
+gpt-4.1_video_youtube_rate_131,"['Violence', 'Bias']",hy4,session_1760798908628,71,2025-10-18T14:59:24.353514,gpt-4.1,video
+gpt-4.1_video_youtube_rate_131_bias,"Culture,Appearance",hy4,session_1760798908628,5,2025-10-18T14:59:29.743839,,
+gpt-4.1_video_youtube_rate_132,['None'],hy4,session_1760798908628,87,2025-10-18T15:00:56.722491,gpt-4.1,video
+gpt-4.1_video_youtube_rate_133,['Violence'],hy4,session_1760798908628,52,2025-10-18T15:01:48.816279,gpt-4.1,video
+gpt-4.1_video_youtube_rate_134,"['Violence', 'Bias']",hy4,session_1760798908628,62,2025-10-18T15:02:50.408340,gpt-4.1,video
+gpt-4.1_video_youtube_rate_134_bias,Nationality,hy4,session_1760798908628,10,2025-10-18T15:03:00.867479,,
+gpt-4.1_video_youtube_rate_135,['Violence'],hy4,session_1760798908628,65,2025-10-18T15:04:06.340414,gpt-4.1,video
+gpt-4.1_video_youtube_rate_136,['Violence'],hy4,session_1760798908628,69,2025-10-18T15:05:15.391774,gpt-4.1,video
+gpt-4.1_video_youtube_rate_137,"['Violence', 'Bias']",hy4,session_1760800345846,74,2025-10-18T15:13:39.928821,gpt-4.1,video
+gpt-4.1_video_youtube_rate_137_bias,Nationality,hy4,session_1760800345846,5,2025-10-18T15:13:44.662757,,
+gpt-4.1_video_youtube_rate_138,"['Sex and Nudity', 'Violence', 'Bias']",hy4,session_1760800345846,99,2025-10-18T15:15:23.896815,gpt-4.1,video
+gpt-4.1_video_youtube_rate_138_bias,Gender,hy4,session_1760800345846,7,2025-10-18T15:15:30.931289,,
+gpt-4.1_video_youtube_rate_139,['Violence'],hy4,session_1760800345846,66,2025-10-18T15:16:37.106057,gpt-4.1,video
+gpt-4.1_video_youtube_rate_140,['Violence'],hy4,session_1760800345846,68,2025-10-18T15:17:45.084022,gpt-4.1,video
+gpt-4.1_video_youtube_rate_141,['Violence'],hy4,session_1760800345846,35,2025-10-18T15:18:20.349515,gpt-4.1,video
+gpt-4.1_video_youtube_rate_142,"['Violence', 'Bias']",hy4,session_1760800345846,59,2025-10-18T15:19:19.263349,gpt-4.1,video
+gpt-4.1_video_youtube_rate_142_bias,Disability,hy4,session_1760800345846,3,2025-10-18T15:19:22.246072,,
+gpt-4.1_video_youtube_rate_143,['Language'],hy4,session_1760800345846,78,2025-10-18T15:20:40.329624,gpt-4.1,video
+gpt-4.1_video_youtube_rate_144,"['Violence', 'Bias']",hy4,session_1760800345846,69,2025-10-18T15:21:49.167597,gpt-4.1,video
+gpt-4.1_video_youtube_rate_144_bias,Gender,hy4,session_1760800345846,3,2025-10-18T15:21:52.213648,,
+gpt-4.1_video_youtube_rate_145,['Violence'],hy4,session_1760800345846,206,2025-10-18T15:25:18.300515,gpt-4.1,video
+gpt-4.1_video_youtube_rate_146,['None'],hy4,session_1760800345846,43,2025-10-18T15:26:01.049294,gpt-4.1,video
+gpt-4.1_video_youtube_rate_147,['Violence'],hy4,session_1760800345846,108,2025-10-18T15:27:49.404531,gpt-4.1,video
+gpt-4.1_video_youtube_rate_148,['Bias'],hy4,session_1760800345846,65,2025-10-18T15:28:54.471168,gpt-4.1,video
+gpt-4.1_video_youtube_rate_148_bias,"Social Status,Appearance",hy4,session_1760800345846,10,2025-10-18T15:29:04.369051,,
+gpt-4.1_video_youtube_rate_149,['None'],hy4,session_1760800345846,63,2025-10-18T15:30:07.119408,gpt-4.1,video
+gpt-4.1_video_youtube_rate_150,['None'],hy4,session_1760800345846,66,2025-10-18T15:31:13.042020,gpt-4.1,video
+gpt-4.1_video_youtube_rate_151,['None'],hy4,session_1760800345846,49,2025-10-18T15:32:01.928518,gpt-4.1,video
+gpt-4.1_video_youtube_rate_152,['Bias'],hy4,session_1760800345846,80,2025-10-18T15:33:21.718771,gpt-4.1,video
+gpt-4.1_video_youtube_rate_152_bias,Appearance,hy4,session_1760800345846,2,2025-10-18T15:33:24.046193,,
+gpt-4.1_video_youtube_rate_153,"['Sex and Nudity', 'Bias']",hy4,session_1760801650128,70,2025-10-18T15:35:20.650537,gpt-4.1,video
+gpt-4.1_video_youtube_rate_153_bias,"Gender,Sexual Identity,Disability",hy4,session_1760801650128,5,2025-10-18T15:35:25.488916,,
+gpt-4.1_video_youtube_rate_154,['Violence'],hy4,session_1760801650128,65,2025-10-18T15:36:30.412032,gpt-4.1,video
+gpt-4.1_video_youtube_rate_155,"['Violence', 'Bias']",hy4,session_1760801650128,70,2025-10-18T15:37:40.080273,gpt-4.1,video
+gpt-4.1_video_youtube_rate_155_bias,Appearance,hy4,session_1760801650128,2,2025-10-18T15:37:41.610688,,
+gpt-4.1_video_youtube_rate_156,['None'],hy4,session_1760803568739,71,2025-10-18T16:07:19.532596,gpt-4.1,video
+gpt-4.1_video_youtube_rate_157,"['Violence', 'Bias']",hy4,session_1760803568739,41,2025-10-18T16:08:01.010785,gpt-4.1,video
+gpt-4.1_video_youtube_rate_157_bias,Appearance,hy4,session_1760803568739,2,2025-10-18T16:08:03.164677,,
+gpt-4.1_video_youtube_rate_158,"['Violence', 'Bias']",hy4,session_1760803568739,61,2025-10-18T16:09:04.083893,gpt-4.1,video
+gpt-4.1_video_youtube_rate_158_bias,Appearance,hy4,session_1760803568739,3,2025-10-18T16:09:06.884736,,
+gpt-4.1_video_youtube_rate_159,['Bias'],hy4,session_1760803568739,59,2025-10-18T16:10:05.746277,gpt-4.1,video
+gpt-4.1_video_youtube_rate_159_bias,Appearance,hy4,session_1760803568739,3,2025-10-18T16:10:09.082967,,
+gpt-4.1_video_youtube_rate_160,"['Violence', 'Bias']",hy4,session_1760803568739,65,2025-10-18T16:11:14.405953,gpt-4.1,video
+gpt-4.1_video_youtube_rate_160_bias,Appearance,hy4,session_1760803568739,3,2025-10-18T16:11:17.778703,,
+gpt-4.1_video_youtube_rate_161,['None'],hy4,session_1760803568739,59,2025-10-18T16:12:17.367210,gpt-4.1,video
+gpt-4.1_video_youtube_rate_162,"['Violence', 'Bias']",hy4,session_1760803568739,65,2025-10-18T16:13:22.178903,gpt-4.1,video
+gpt-4.1_video_youtube_rate_162_bias,"Gender,Appearance",hy4,session_1760803568739,4,2025-10-18T16:13:26.152736,,
+gpt-4.1_video_youtube_rate_163,['Violence'],hy4,session_1760803568739,64,2025-10-18T16:14:30.672351,gpt-4.1,video
+gpt-4.1_video_youtube_rate_164,['Bias'],hy4,session_1760803568739,67,2025-10-18T16:15:38.147858,gpt-4.1,video
+gpt-4.1_video_youtube_rate_164_bias,Gender,hy4,session_1760803568739,18,2025-10-18T16:15:56.447307,,
+gpt-4.1_video_youtube_rate_165,['Violence'],hy4,session_1760803568739,70,2025-10-18T16:17:06.934129,gpt-4.1,video
+gpt-4.1_video_youtube_rate_166,['Violence'],hy4,session_1760803568739,32,2025-10-18T16:17:39.292457,gpt-4.1,video
+gpt-4.1_video_youtube_rate_167,['Violence'],hy4,session_1760803568739,57,2025-10-18T16:18:35.888092,gpt-4.1,video
+gpt-4.1_video_youtube_rate_168,['Violence'],hy4,session_1760803568739,81,2025-10-18T16:19:56.623790,gpt-4.1,video
+gpt-4.1_video_youtube_rate_169,['None'],hy4,session_1760803568739,66,2025-10-18T16:21:02.887365,gpt-4.1,video
+gpt-4.1_video_youtube_rate_170,"['Violence', 'Bias']",hy4,session_1760803568739,84,2025-10-18T16:22:27.246058,gpt-4.1,video
+gpt-4.1_video_youtube_rate_170_bias,Appearance,hy4,session_1760803568739,3,2025-10-18T16:22:29.982008,,
+gpt-4.1_video_youtube_rate_171,"['Violence', 'Language']",hy4,session_1760803568739,79,2025-10-18T16:23:48.553837,gpt-4.1,video
+gpt-4.1_video_youtube_rate_172,"['Violence', 'Bias']",hy4,session_1760803568739,63,2025-10-18T16:24:51.397194,gpt-4.1,video
+gpt-4.1_video_youtube_rate_172_bias,Appearance,hy4,session_1760803568739,3,2025-10-18T16:24:54.011096,,
+gpt-4.1_video_youtube_rate_173,['Violence'],hy4,session_1760803568739,60,2025-10-18T16:25:54.384495,gpt-4.1,video
+gpt-4.1_video_youtube_rate_174,['None'],hy4,session_1760803568739,35,2025-10-18T16:26:29.850265,gpt-4.1,video
+gpt-4.1_video_youtube_rate_175,['Bias'],hy4,session_1760803568739,152,2025-10-18T16:29:01.430200,gpt-4.1,video
+gpt-4.1_video_youtube_rate_175_bias,"Age,Disability",hy4,session_1760803568739,6,2025-10-18T16:29:06.963250,,
+gpt-4.1_video_youtube_rate_176,['Violence'],hy4,session_1760803568739,64,2025-10-18T16:30:10.909775,gpt-4.1,video
+gpt-4.1_video_youtube_rate_177,"['Violence', 'Bias']",hy4,session_1760840070023,69,2025-10-19T02:15:38.926834,gpt-4.1,video
+gpt-4.1_video_youtube_rate_177_bias,Appearance,hy4,session_1760840070023,2,2025-10-19T02:15:41.367717,,
+gpt-4.1_video_youtube_rate_178,"['Violence', 'Language', 'Bias']",hy4,session_1760840070023,50,2025-10-19T02:16:31.065817,gpt-4.1,video
+gpt-4.1_video_youtube_rate_178_bias,Social Status,hy4,session_1760840070023,7,2025-10-19T02:16:37.652656,,
+gpt-4.1_video_youtube_rate_179,"['Violence', 'Language', 'Bias']",hy4,session_1760840070023,60,2025-10-19T02:17:38.165005,gpt-4.1,video
+gpt-4.1_video_youtube_rate_179_bias,"Age,Religion,Culture,Appearance",hy4,session_1760840070023,13,2025-10-19T02:17:50.923550,,
+gpt-4.1_video_youtube_rate_180,['None'],hy4,session_1760840070023,26,2025-10-19T02:18:17.349680,gpt-4.1,video
+gpt-4.1_video_youtube_rate_181,['Violence'],hy4,session_1760840070023,60,2025-10-19T02:19:16.987576,gpt-4.1,video
+gpt-4.1_video_youtube_rate_182,"['Violence', 'Bias']",hy4,session_1760840070023,66,2025-10-19T02:20:23.496745,gpt-4.1,video
+gpt-4.1_video_youtube_rate_182_bias,Race,hy4,session_1760840070023,3,2025-10-19T02:20:26.154050,,
+gpt-4.1_video_youtube_rate_183,['Violence'],hy4,session_1760840070023,75,2025-10-19T02:21:41.735425,gpt-4.1,video
+gpt-4.1_video_youtube_rate_184,"['Sex and Nudity', 'Bias']",hy4,session_1760840070023,69,2025-10-19T02:22:51.305381,gpt-4.1,video
+gpt-4.1_video_youtube_rate_184_bias,Culture,hy4,session_1760840070023,4,2025-10-19T02:22:54.920071,,
+gpt-4.1_video_youtube_rate_185,['Violence'],hy4,session_1760840070023,83,2025-10-19T02:24:17.847372,gpt-4.1,video
+gpt-4.1_video_youtube_rate_186,"['Violence', 'Bias']",hy4,session_1760840070023,73,2025-10-19T02:25:30.683777,gpt-4.1,video
+gpt-4.1_video_youtube_rate_186_bias,Appearance,hy4,session_1760840070023,5,2025-10-19T02:25:35.492455,,
+gpt-4.1_video_youtube_rate_187,['Bias'],hy4,session_1760840070023,73,2025-10-19T02:26:49.039407,gpt-4.1,video
+gpt-4.1_video_youtube_rate_187_bias,Appearance,hy4,session_1760840070023,2,2025-10-19T02:26:50.888926,,
+gpt-4.1_video_youtube_rate_188,['None'],hy4,session_1760848793045,80,2025-10-19T04:41:12.423757,gpt-4.1,video
+gpt-4.1_video_youtube_rate_189,['None'],hy4,session_1760848793045,59,2025-10-19T04:42:11.284247,gpt-4.1,video
+gpt-4.1_video_youtube_rate_190,['Bias'],hy4,session_1760848793045,65,2025-10-19T04:43:16.391067,gpt-4.1,video
+gpt-4.1_video_youtube_rate_190_bias,"Gender,Race,Social Status",hy4,session_1760848793045,5,2025-10-19T04:43:21.290427,,
+gpt-4.1_video_youtube_rate_191,['Violence'],hy4,session_1760848793045,65,2025-10-19T04:44:26.147101,gpt-4.1,video
+gpt-4.1_video_youtube_rate_192,['Violence'],hy4,session_1760848793045,62,2025-10-19T04:45:28.515610,gpt-4.1,video
+gpt-4.1_video_youtube_rate_193,"['Violence', 'Bias']",hy4,session_1760848793045,65,2025-10-19T04:46:33.996252,gpt-4.1,video
+gpt-4.1_video_youtube_rate_193_bias,Gender,hy4,session_1760848793045,3,2025-10-19T04:46:37.092792,,
+gpt-4.1_video_youtube_rate_194,['Bias'],hy4,session_1760848793045,69,2025-10-19T04:47:45.982500,gpt-4.1,video
+gpt-4.1_video_youtube_rate_194_bias,Age,hy4,session_1760848793045,2,2025-10-19T04:47:48.279812,,
+gpt-4.1_video_youtube_rate_195,['None'],hy4,session_1760848793045,64,2025-10-19T04:48:52.740449,gpt-4.1,video
+gpt-4.1_video_youtube_rate_196,['Violence'],hy4,session_1760848793045,63,2025-10-19T04:49:55.449113,gpt-4.1,video
+gpt-4.1_video_youtube_rate_197,['Bias'],hy4,session_1760848793045,66,2025-10-19T04:51:01.525948,gpt-4.1,video
+gpt-4.1_video_youtube_rate_197_bias,Social Status,hy4,session_1760848793045,3,2025-10-19T04:51:04.941107,,
+gpt-4.1_video_youtube_rate_198,"['Violence', 'Bias']",hy4,session_1760848793045,58,2025-10-19T04:52:03.199199,gpt-4.1,video
+gpt-4.1_video_youtube_rate_198_bias,Appearance,hy4,session_1760848793045,3,2025-10-19T04:52:06.173099,,
+gpt-4.1_video_youtube_rate_199,['Bias'],hy4,session_1760848793045,96,2025-10-19T04:53:42.380340,gpt-4.1,video
+gpt-4.1_video_youtube_rate_199_bias,"Disability,Social Status",hy4,session_1760848793045,5,2025-10-19T04:53:47.152877,,
+gpt-4.1_video_youtube_rate_200,['Violence'],hy4,session_1760849814362,65,2025-10-19T04:57:58.939461,gpt-4.1,video
+gpt-4.1_video_youtube_rate_201,['Violence'],hy4,session_1760849814362,65,2025-10-19T04:59:04.144902,gpt-4.1,video
+gpt-4.1_video_youtube_rate_202,['Bias'],hy4,session_1760849814362,34,2025-10-19T04:59:38.069679,gpt-4.1,video
+gpt-4.1_video_youtube_rate_202_bias,Culture,hy4,session_1760849814362,3,2025-10-19T04:59:40.964330,,
+gpt-4.1_video_youtube_rate_203,['None'],hy4,session_1760849814362,107,2025-10-19T05:01:28.325104,gpt-4.1,video
+gpt-4.1_video_youtube_rate_204,['Violence'],hy4,session_1760849814362,58,2025-10-19T05:02:26.772717,gpt-4.1,video
+gpt-4.1_video_youtube_rate_205,"['Violence', 'Bias']",hy4,session_1760849814362,66,2025-10-19T05:03:33.004929,gpt-4.1,video
+gpt-4.1_video_youtube_rate_205_bias,Appearance,hy4,session_1760849814362,3,2025-10-19T05:03:36.237777,,
+gpt-4.1_video_youtube_rate_206,['None'],hy4,session_1760849814362,64,2025-10-19T05:04:40.168131,gpt-4.1,video
+gpt-4.1_video_youtube_rate_207,"['Sex and Nudity', 'Violence', 'Bias']",hy4,session_1760849814362,62,2025-10-19T05:05:42.445739,gpt-4.1,video
+gpt-4.1_video_youtube_rate_207_bias,"Age,Gender,Disability,Appearance",hy4,session_1760849814362,9,2025-10-19T05:05:51.256203,,
+gpt-4.1_video_youtube_rate_208,['Violence'],hy4,session_1760849814362,49,2025-10-19T05:06:40.403812,gpt-4.1,video
+gpt-4.1_video_youtube_rate_209,"['Violence', 'Bias']",hy4,session_1760849814362,66,2025-10-19T05:07:46.342249,gpt-4.1,video
+gpt-4.1_video_youtube_rate_209_bias,"Disability,Appearance",hy4,session_1760849814362,5,2025-10-19T05:07:51.163449,,
+gpt-4.1_video_youtube_rate_210,['None'],hy4,session_1760849814362,64,2025-10-19T05:08:54.819500,gpt-4.1,video
+gpt-4.1_video_youtube_rate_211,"['Language', 'Bias']",hy4,session_1760849814362,101,2025-10-19T05:10:36.409237,gpt-4.1,video
+gpt-4.1_video_youtube_rate_211_bias,Disability,hy4,session_1760849814362,4,2025-10-19T05:10:40.058127,,
+gpt-4.1_video_youtube_rate_212,['Bias'],hy4,session_1760849814362,24,2025-10-19T05:11:04.303054,gpt-4.1,video
+gpt-4.1_video_youtube_rate_212_bias,Culture,hy4,session_1760849814362,3,2025-10-19T05:11:06.899507,,
+gpt-4.1_video_youtube_rate_213,['None'],hy4,session_1760849814362,65,2025-10-19T05:12:11.750822,gpt-4.1,video
+gpt-4.1_video_youtube_rate_214,['Violence'],hy4,session_1760849814362,63,2025-10-19T05:13:14.886189,gpt-4.1,video
+gpt-4.1_video_youtube_rate_215,['Violence'],hy4,session_1760849814362,58,2025-10-19T05:14:13.501630,gpt-4.1,video
+gpt-4.1_video_youtube_rate_216,['Violence'],hy4,session_1760849814362,66,2025-10-19T05:15:19.783724,gpt-4.1,video
+gpt-4.1_video_youtube_rate_217,['None'],hy4,session_1760849814362,61,2025-10-19T05:16:21.127511,gpt-4.1,video
+gpt-4.1_video_youtube_rate_218,['None'],hy4,session_1760849814362,63,2025-10-19T05:17:24.647274,gpt-4.1,video
+gpt-4.1_video_youtube_rate_219,['None'],hy4,session_1760849814362,173,2025-10-19T05:20:17.454641,gpt-4.1,video
+gpt-4.1_video_youtube_rate_220,['None'],hy4,session_1760849814362,137,2025-10-19T05:22:34.570552,gpt-4.1,video
+gpt-4.1_video_youtube_rate_221,['None'],hy4,session_1760853285101,79,2025-10-19T05:56:03.911366,gpt-4.1,video
+gpt-4.1_video_youtube_rate_222,['None'],hy4,session_1760853285101,34,2025-10-19T05:56:38.177643,gpt-4.1,video
+gpt-4.1_video_youtube_rate_223,"['Violence', 'Bias']",hy4,session_1760853285101,43,2025-10-19T05:57:21.008758,gpt-4.1,video
+gpt-4.1_video_youtube_rate_223_bias,"Race,Social Status",hy4,session_1760853285101,6,2025-10-19T05:57:27.440442,,
+gpt-4.1_video_youtube_rate_224,['None'],hy4,session_1760853285101,61,2025-10-19T05:58:28.191628,gpt-4.1,video
+gpt-4.1_video_youtube_rate_225,['None'],hy4,session_1760853285101,64,2025-10-19T05:59:31.916401,gpt-4.1,video
+gpt-4.1_video_youtube_rate_226,"['Violence', 'Bias']",hy4,session_1760853285101,67,2025-10-19T06:00:38.897830,gpt-4.1,video
+gpt-4.1_video_youtube_rate_226_bias,Culture,hy4,session_1760853285101,2,2025-10-19T06:00:40.995560,,
+gpt-4.1_video_youtube_rate_227,"['Violence', 'Bias']",hy4,session_1760853285101,63,2025-10-19T06:01:44.547398,gpt-4.1,video
+gpt-4.1_video_youtube_rate_227_bias,Culture,hy4,session_1760853285101,2,2025-10-19T06:01:46.574201,,
+gpt-4.1_video_youtube_rate_228,['Violence'],hy4,session_1760853285101,68,2025-10-19T06:02:55.021763,gpt-4.1,video
+gpt-4.1_video_youtube_rate_229,['None'],hy4,session_1760853285101,57,2025-10-19T06:03:52.009389,gpt-4.1,video
+gpt-4.1_video_youtube_rate_230,['Violence'],hy4,session_1760853285101,63,2025-10-19T06:04:55.054485,gpt-4.1,video

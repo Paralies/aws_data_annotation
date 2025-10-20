@@ -33,5 +33,61 @@
     "age": 27,
     "gender": "male",
     "registered_at": "2025-10-17T07:08:57.745738"
+  },
+  "test1": {
+    "annotator_id": "test1",
+    "password": "$2b$12$l87qdmZsQaq55cxMHxRKFOq4Y90G5jUncOisdrs1lXJoentgss8rC",
+    "age": 28,
+    "gender": "male",
+    "registered_at": "2025-10-17T07:44:54.789593"
+  },
+  "hy1": {
+    "annotator_id": "hy1",
+    "password": "$2b$12$32AFNTGh7wQBCboDXn/bSOewA.y.sujya9./v2RiE1d9FszjkBBWC",
+    "age": 30,
+    "gender": "female",
+    "registered_at": "2025-10-17T08:59:28.411417"
+  },
+  "hy2": {
+    "annotator_id": "hy2",
+    "password": "$2b$12$r8PAUC4Ugi34nGhRPRpgpOZWbBPhGST/0uXHxpnJ7BPjDc9kGzm32",
+    "age": 30,
+    "gender": "male",
+    "registered_at": "2025-10-17T08:59:36.589917"
+  },
+  "hy3": {
+    "annotator_id": "hy3",
+    "password": "$2b$12$WXXlTXWm2sZRmdJfHga6BO3mOhPyajFThVC4HjuTXEMjnxaT66gzS",
+    "age": 30,
+    "gender": "male",
+    "registered_at": "2025-10-17T08:59:47.089558"
+  },
+  "sample": {
+    "annotator_id": "sample",
+    "password": "$2b$12$NdAAqNKFdyodV0K0lIPioe.oijJLauJy9njMLcudoJ9W8mHFhmaPy",
+    "age": 23,
+    "gender": "male",
+    "registered_at": "2025-10-17T09:13:51.498078"
+  },
+  "sample2": {
+    "annotator_id": "sample2",
+    "password": "$2b$12$aNXn.TQA2vpzLqfj/38SsOBXM1pR/vCJlQAmTMFAfHt9UTmJmXl3S",
+    "age": 21,
+    "gender": "male",
+    "registered_at": "2025-10-17T09:15:52.027956"
+  },
+  "sample3": {
+    "annotator_id": "sample3",
+    "password": "$2b$12$fxx2IqbcaIvOuXR6RAsZae275pHT9tCpWv4wT35Zl0BMyGMm/NQ9e",
+    "age": 21,
+    "gender": "male",
+    "registered_at": "2025-10-17T09:16:36.219762"
+  },
+  "hy4": {
+    "annotator_id": "hy4",
+    "password": "$2b$12$qLpq5YxZxafRXDJsEPZmIuHLNMzSnwDb9Ecm3DOaICTnxMEGsncuG",
+    "age": 30,
+    "gender": "female",
+    "registered_at": "2025-10-18T04:41:18.210382"
   }
 }

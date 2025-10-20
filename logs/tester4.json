@@ -70,5 +70,17 @@
     "timestamp": "2025-10-17T07:10:22.391252",
     "model_id": "gpt-4.1",
     "input_type": "video"
+  },
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_7",
+    "answer": [
+      "None"
+    ],
+    "annotator_id": "tester4",
+    "session_id": "session_1760684954556",
+    "time_spent": 459,
+    "timestamp": "2025-10-17T07:18:01.606366",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
   }
 ]

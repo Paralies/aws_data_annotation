@@ -1,0 +1,14 @@
+[
+  {
+    "content_id": "gpt-4.1_video_youtube_rate_1",
+    "answer": [
+      "Bias"
+    ],
+    "annotator_id": "sample",
+    "session_id": "session_1760692441497",
+    "time_spent": 34,
+    "timestamp": "2025-10-17T09:14:35.755624",
+    "model_id": "gpt-4.1",
+    "input_type": "video"
+  }
+]
